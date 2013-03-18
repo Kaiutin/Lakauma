@@ -1,0 +1,4 @@
+Lakauma
+=======
+
+Aineopintojen projektityö repo
