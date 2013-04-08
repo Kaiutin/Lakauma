@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # @author: Samuel Uusi-Makela
 # @version: 8.4.2013
 #
@@ -23,19 +24,39 @@ def html_ext_between(s, start, end):
 def sub_str_extract(s, start, end):
     pass
 
+class OVVItem():
+    tyyppi ="" 
+    neliot = "" 
+    vuokra = ""
+    osoite = ""
+    vapautuu =""
+
 # Insert the page specific keywords here
 keywords = ["itemTitle","itemPrice","itemSize","itemFree","itemText"]
-
+keyword_start = "resultItem"
+keyword_end = "itemLink"
 results = []
-
+lippu = False
 test_html = open('ovv_sorsa', 'r')
+stripped_results = []
+indexi = 0
 
-i = 0
 
 for line in test_html:
-    for word in keywords:
-       if word in line: 
-            results.append(str(i))
-            i = i + 1
-print results
+    if (keyword_end in line and lippu == True):
+        lippu = False
+    if (keyword_start in line and lippu == False):
+        lippu = True    
+    if (lippu == True):    
+        for word in keywords:
+            if (word in line):
+                results.append(line)
+for result in results:
+    if "itemTitle" in result:
+        print "\n"
+    almost = result.strip()
+    better = almost.split('>')
+    even_better = better[1]
+    nearly = even_better.split('<')
     
+    stripped_results.(nearly[0])

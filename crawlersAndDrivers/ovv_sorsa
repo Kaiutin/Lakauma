@@ -201,6 +201,17 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 					</div>
 						<div class="resultItem">
 			<div class="itemImage">
+														<img width="91" height="60" alt="" src="/asuntoimages/t3emzNMF2vYT49wU.jpg" />
+							</div>
+			<div class="itemTitle">1h+ks+kh</div>
+			<div class="itemPrice">430€/kk</div>
+			<div class="itemSize">21.5 m<sup>2</sup></div>
+			<div class="itemFree">Vapaa: 1.5.2013</div>
+			<div class="itemText">Rajakatu 20 A, TAULUMÄKI, 40200 Jyväskylä</div>
+			<div class="itemLinks"><a onclick="asunto(66523)">Lisätiedot, hakuvahti &gt;</a></div>
+					</div>
+						<div class="resultItem">
+			<div class="itemImage">
 							</div>
 			<div class="itemTitle">1h+kk+kh+p</div>
 			<div class="itemPrice">480€/kk</div>
@@ -265,17 +276,6 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 					</div>
 						<div class="resultItem">
 			<div class="itemImage">
-														<img width="91" height="60" alt="" src="/asuntoimages/Q8vqVscr2cUfAtwF.jpg" />
-							</div>
-			<div class="itemTitle">1h+kk+kh+p</div>
-			<div class="itemPrice">370€/kk</div>
-			<div class="itemSize">31.5 m<sup>2</sup></div>
-			<div class="itemFree">Vapaa: Heti / VUOKRATTU</div>
-			<div class="itemText">Kangaslammentie 2 A, KANGASLAMPI, 40340 Jyväskylä</div>
-			<div class="itemLinks"><a onclick="asunto(65827)">Lisätiedot, hakuvahti &gt;</a></div>
-					</div>
-						<div class="resultItem">
-			<div class="itemImage">
 							</div>
 			<div class="itemTitle">1h+kk+kh+p</div>
 			<div class="itemPrice">450€/kk</div>
@@ -287,6 +287,18 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 						<div class="resultItem">
 			<div class="itemImage">
 							</div>
+			<div class="itemTitle">1h+k+kh</div>
+			<div class="itemPrice">520€/kk</div>
+			<div class="itemSize">34 m<sup>2</sup></div>
+			<div class="itemFree">Vapaa: 1.5.2013</div>
+			<div class="itemText">Vapaudenkatu 83 A, KESKUSTA, 40100 Jyväskylä</div>
+			<div class="itemLinks"><a onclick="asunto(66525)">Lisätiedot, hakuvahti &gt;</a></div>
+					</div>
+													</div>
+			<div class="resultPage">
+				<div class="resultItem">
+			<div class="itemImage">
+							</div>
 			<div class="itemTitle">1h+k+kh+p</div>
 			<div class="itemPrice">450€/kk</div>
 			<div class="itemSize">35 m<sup>2</sup></div>
@@ -294,9 +306,7 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 			<div class="itemText">Pupuhuhdantie 24 A, PUPUHUHTA, 40340 Jyväskylä</div>
 			<div class="itemLinks"><a onclick="asunto(66112)">Lisätiedot, hakuvahti &gt;</a></div>
 					</div>
-													</div>
-			<div class="resultPage">
-				<div class="resultItem">
+						<div class="resultItem">
 			<div class="itemImage">
 							</div>
 			<div class="itemTitle">1h+tk+kh+p</div>
@@ -360,6 +370,28 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 					</div>
 						<div class="resultItem">
 			<div class="itemImage">
+														<img width="91" height="60" alt="" src="/asuntoimages/kVZzAU7QRTa9HzXq.JPG" />
+							</div>
+			<div class="itemTitle">1h+tk+kh+vh</div>
+			<div class="itemPrice">600€/kk</div>
+			<div class="itemSize">38 m<sup>2</sup></div>
+			<div class="itemFree">Vapaa: 1.9.2013</div>
+			<div class="itemText">Palanderinkatu 13 A, RASINRINNE, 40320 Jyväskylä</div>
+			<div class="itemLinks"><a onclick="asunto(66521)">Lisätiedot, hakuvahti &gt;</a></div>
+					</div>
+						<div class="resultItem">
+			<div class="itemImage">
+														<img width="91" height="60" alt="" src="/asuntoimages/ATakuGUjYhmLbuUu.JPG" />
+							</div>
+			<div class="itemTitle">1h+tk+kh+vh</div>
+			<div class="itemPrice">600€/kk</div>
+			<div class="itemSize">38 m<sup>2</sup></div>
+			<div class="itemFree">Vapaa: 1.9.2013</div>
+			<div class="itemText">Palanderinkatu 13 A, RASINRINNE, 40320 Jyväskylä</div>
+			<div class="itemLinks"><a onclick="asunto(66522)">Lisätiedot, hakuvahti &gt;</a></div>
+					</div>
+						<div class="resultItem">
+			<div class="itemImage">
 														<img width="91" height="60" alt="" src="/asuntoimages/gVcCvRXb5gq8r94H.jpg" />
 							</div>
 			<div class="itemTitle">2h+kk+kh</div>
@@ -369,7 +401,9 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 			<div class="itemText">Pitkäkatu 39 B, MÄKI-MATTI, 40700 Jyväskylä</div>
 			<div class="itemLinks"><a onclick="asunto(66400)">Lisätiedot, hakuvahti &gt;</a></div>
 					</div>
-						<div class="resultItem">
+													</div>
+			<div class="resultPage">
+				<div class="resultItem">
 			<div class="itemImage">
 														<img width="91" height="60" alt="" src="/asuntoimages/As5jwqDYSqBqBBrs.JPG" />
 							</div>
@@ -402,9 +436,7 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 			<div class="itemText">Vaasankatu 8, KESKUSTA, 40100 Jyväskylä</div>
 			<div class="itemLinks"><a onclick="asunto(65576)">Lisätiedot, hakuvahti &gt;</a></div>
 					</div>
-													</div>
-			<div class="resultPage">
-				<div class="resultItem">
+						<div class="resultItem">
 			<div class="itemImage">
 														<img width="91" height="60" alt="" src="/asuntoimages/m9YeD4qSwFd4W6GE.JPG" />
 							</div>
@@ -479,7 +511,9 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 			<div class="itemText">Vapaudenkatu 43 B, KESKUSTA, 40100 Jyväskylä</div>
 			<div class="itemLinks"><a onclick="asunto(65922)">Lisätiedot, hakuvahti &gt;</a></div>
 					</div>
-						<div class="resultItem">
+													</div>
+			<div class="resultPage">
+				<div class="resultItem">
 			<div class="itemImage">
 														<img width="91" height="60" alt="" src="/asuntoimages/E6vvNxVPkoyNVPct.jpg" />
 							</div>
@@ -512,9 +546,7 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 			<div class="itemText">Pupuhuhdantie 24 A, PUPUHUHTA, 40340 Jyväskylä</div>
 			<div class="itemLinks"><a onclick="asunto(65673)">Lisätiedot, hakuvahti &gt;</a></div>
 					</div>
-													</div>
-			<div class="resultPage">
-				<div class="resultItem">
+						<div class="resultItem">
 			<div class="itemImage">
 														<img width="91" height="60" alt="" src="/asuntoimages/KAcGKhxEerMBR3HG.jpg" />
 							</div>
@@ -602,6 +634,12 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 Piilukko 3, KORTEMÄKI, 40630 Jyväskylä, 
 Heti
 <br />
+        1h+ks+kh, 
+21.5 m<sup>2</sup>, 
+430€/kk, 
+Rajakatu 20 A, TAULUMÄKI, 40200 Jyväskylä, 
+1.5.2013
+<br />
         1h+kk+kh+p, 
 27 m<sup>2</sup>, 
 480€/kk, 
@@ -639,16 +677,16 @@ Viitaniementie 11-13 D, VIITANIEMI, 40720 Jyväskylä,
 Heti
 <br />
         1h+kk+kh+p, 
-31.5 m<sup>2</sup>, 
-370€/kk, 
-Kangaslammentie 2 A, KANGASLAMPI, 40340 Jyväskylä, 
-Heti / VUOKRATTU
-<br />
-        1h+kk+kh+p, 
 33 m<sup>2</sup>, 
 450€/kk, 
 Keltinmäentie 12 B, KELTINMÄKI, 40640 Jyväskylä, 
 1.5.2013 / 1.6.2013
+<br />
+        1h+k+kh, 
+34 m<sup>2</sup>, 
+520€/kk, 
+Vapaudenkatu 83 A, KESKUSTA, 40100 Jyväskylä, 
+1.5.2013
 <br />
         1h+k+kh+p, 
 35 m<sup>2</sup>, 
@@ -691,6 +729,18 @@ Heti
 600€/kk, 
 Vapaudenkatu 65 A, KESKUSTA, 40100 Jyväskylä, 
 1.5.2013
+<br />
+        1h+tk+kh+vh, 
+38 m<sup>2</sup>, 
+600€/kk, 
+Palanderinkatu 13 A, RASINRINNE, 40320 Jyväskylä, 
+1.9.2013
+<br />
+        1h+tk+kh+vh, 
+38 m<sup>2</sup>, 
+600€/kk, 
+Palanderinkatu 13 A, RASINRINNE, 40320 Jyväskylä, 
+1.9.2013
 <br />
         2h+kk+kh, 
 33.5 m<sup>2</sup>, 
