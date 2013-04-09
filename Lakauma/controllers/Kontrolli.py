@@ -9,6 +9,10 @@
 # - karttakuvan piirtopyyntö piirturiluokalle
 # - Kaikkea kivaa.
 
+#import control_scrapers
+#import control_maps
+#import control_database
+
 # Ajaa scraperit
 def aja_scraperit():
     return "Tietokantaan sopiva taulukko"
