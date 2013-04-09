@@ -1,0 +1,23 @@
+/Lakauma
+        /docs
+            arkkitehtuuri.uxf
+            README
+            INSTALL(?)
+        /scraperit
+            /ovv
+            /koas
+            /kortepohja
+            /sato
+            /
+            koas_scraper.py
+            ovv_scraper/webdriver.py
+            jne....
+        /kontrolli
+            Kontrolli.py
+            scraper_control.py
+            tietokanta_control.py
+            kartta_control.py
+        /tietokanta
+            tietokanta.db(?)
+        /kartta
+            kartta_piirturi.py

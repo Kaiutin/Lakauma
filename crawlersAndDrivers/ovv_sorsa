@@ -343,7 +343,7 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 			<div class="itemTitle">1h+tk+kh+p</div>
 			<div class="itemPrice">450€/kk</div>
 			<div class="itemSize">38 m<sup>2</sup></div>
-			<div class="itemFree">Vapaa: Heti</div>
+			<div class="itemFree">Vapaa: Heti / VUOKRATTU</div>
 			<div class="itemText">Kirrinkydöntie 4 D, JYSKÄ, 40420 Jyskä</div>
 			<div class="itemLinks"><a onclick="asunto(66278)">Lisätiedot, hakuvahti &gt;</a></div>
 					</div>
@@ -410,7 +410,7 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 			<div class="itemTitle">2h+k+kh+p</div>
 			<div class="itemPrice">520€/kk</div>
 			<div class="itemSize">35 m<sup>2</sup></div>
-			<div class="itemFree">Vapaa: 1.5.2013</div>
+			<div class="itemFree">Vapaa: 1.5.2013 / VUOKRATTU</div>
 			<div class="itemText">Voionmaankatu 9 C, MÄKI-MATTI, 40700 Jyväskylä</div>
 			<div class="itemLinks"><a onclick="asunto(66410)">Lisätiedot, hakuvahti &gt;</a></div>
 					</div>
@@ -529,7 +529,7 @@ Näytä: <span onclick="switchPerPage(10);" class="perPageLink pp10 perPageLinkA
 														<img width="91" height="60" alt="" src="/asuntoimages/XzPLQwoxMAYn5sdN.JPG" />
 							</div>
 			<div class="itemTitle">2h+k+kh+p+s</div>
-			<div class="itemPrice">800€/kk</div>
+			<div class="itemPrice">750€/kk</div>
 			<div class="itemSize">55.5 m<sup>2</sup></div>
 			<div class="itemFree">Vapaa: Heti</div>
 			<div class="itemText">Yrjönkatu 56 A, KESKUSTA, 40100 Jyväskylä</div>
@@ -716,7 +716,7 @@ Muurainkuja 2 A, KANGASLAMPI, 40340 Jyväskylä,
 38 m<sup>2</sup>, 
 450€/kk, 
 Kirrinkydöntie 4 D, JYSKÄ, 40420 Jyskä, 
-Heti
+Heti / VUOKRATTU
 <br />
         1h+tk+ph+p, 
 38 m<sup>2</sup>, 
@@ -752,7 +752,7 @@ Pitkäkatu 39 B, MÄKI-MATTI, 40700 Jyväskylä,
 35 m<sup>2</sup>, 
 520€/kk, 
 Voionmaankatu 9 C, MÄKI-MATTI, 40700 Jyväskylä, 
-1.5.2013
+1.5.2013 / VUOKRATTU
 <br />
         2h+k+kh+p, 
 36 m<sup>2</sup>, 
@@ -816,7 +816,7 @@ Viitaniementie 8 A, VIITANIEMI, 40720 Jyväskylä,
 <br />
         2h+k+kh+p+s, 
 55.5 m<sup>2</sup>, 
-800€/kk, 
+750€/kk, 
 Yrjönkatu 56 A, KESKUSTA, 40100 Jyväskylä, 
 Heti
 <br />
