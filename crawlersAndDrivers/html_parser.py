@@ -7,6 +7,8 @@
 # two substrings.
 # Modify the keywords to find results from lines containing keywords.
 
+from ftfy import fix_text
+
 # Extract data from html string s between two strings start and end.
 def html_ext_between(s, start, end): 
     """ Extract string from between two defined strings start and end
@@ -39,7 +41,7 @@ results = []
 lippu = False
 test_html = open('ovv_sorsa', 'r')
 stripped_results = []
-indexi = 0
+
 
 
 for line in test_html:
@@ -52,11 +54,11 @@ for line in test_html:
             if (word in line):
                 results.append(line)
 for result in results:
-    if "itemTitle" in result:
-        print "\n"
-    almost = result.strip()
+    fixed1 = result.decode('utf-8')
+    fixed2 = fix_text(fixed1)
+    almost = fixed2.strip()
     better = almost.split('>')
     even_better = better[1]
     nearly = even_better.split('<')
-    
-    stripped_results.(nearly[0])
+    stripped_results.append(nearly[0])
+    print stripped_results
