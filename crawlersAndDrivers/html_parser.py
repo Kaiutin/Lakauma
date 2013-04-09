@@ -7,6 +7,8 @@
 # two substrings.
 # Modify the keywords to find results from lines containing keywords.
 
+#####  HUOM: Koodi on vielä hyvin vaiheessa, selitän jahka pääsen ilokiveltä
+
 from ftfy import fix_text
 
 # Extract data from html string s between two strings start and end.
@@ -41,8 +43,8 @@ results = []
 lippu = False
 test_html = open('ovv_sorsa', 'r')
 stripped_results = []
-
-
+index = 0
+w
 
 for line in test_html:
     if (keyword_end in line and lippu == True):
@@ -60,5 +62,11 @@ for result in results:
     better = almost.split('>')
     even_better = better[1]
     nearly = even_better.split('<')
-    stripped_results.append(nearly[0])
     print stripped_results
+    if(flag == True): 
+        stripped_results.append(nearly[0])
+        flag = False
+        index = index + 1
+    else:
+        stripped_results[index].append()
+        
