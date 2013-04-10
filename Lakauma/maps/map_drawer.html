@@ -20,8 +20,8 @@
         var mapOptions = {
           center: latlng,
           zoom: 13,
-          mapTypeId: google.maps.MapTypeId.ROADMAP
-        };
+          mapTypeId: google.maps.MapTypeId.ROADMAP       
+        }
 
         var map = new google.maps.Map(document.getElementById("map-canvas"),
             mapOptions);
@@ -30,24 +30,22 @@
 		    position: latlng, 
             map: map,
             title: "Hello World!"
-        });       
+        });            
         attachInfoWindow(marker, map);
       }
 
       function attachInfoWindow(marker, map)/*address lisättävä myöhemmin*/ {
-        content = "uliuli";
+        content = "<h1>uliuli</h1>";
         
         var infowindow = new google.maps.InfoWindow({
 	        content: content
-        });
+        });  
 
-        google.maps.event.addListener(marker, 'click', function(event) {
-	        infowindow.setPosition(event.latLng);
-	        infowindow.open(map);
-        });
+        google.maps.event.addListener(marker, 'click', function() {
+	        infowindow.open(map, marker);
+        });   
     }
-
-      google.maps.event.addDomListener(window, 'load', initialize);
+    google.maps.event.addDomListener(window, 'load', initialize);
     </script>
     <!-- huomio polku, muuta sopivaksi-->
     <link href="/home/jajokank/Documents/bootstrapTutorial/bootstrap/css/bootstrap.css" rel="stylesheet">
