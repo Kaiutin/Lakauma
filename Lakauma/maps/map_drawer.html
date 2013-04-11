@@ -13,39 +13,8 @@
     </script>
     <script src="jquery-1.9.1.min.js"></script>
 
-    <script type="text/javascript">
-      function initialize() {
-	    var latlng = new google.maps.LatLng(62.2500, 25.7500);
-        
-        var mapOptions = {
-          center: latlng,
-          zoom: 13,
-          mapTypeId: google.maps.MapTypeId.ROADMAP       
-        }
-
-        var map = new google.maps.Map(document.getElementById("map-canvas"),
-            mapOptions);
-
-	    var marker = new google.maps.Marker({
-		    position: latlng, 
-            map: map,
-            title: "Hello World!"
-        });            
-        attachInfoWindow(marker, map);
-      }
-
-      function attachInfoWindow(marker, map)/*address lisättävä myöhemmin*/ {
-        content = "<h1>uliuli</h1>";
-        
-        var infowindow = new google.maps.InfoWindow({
-	        content: content
-        });  
-
-        google.maps.event.addListener(marker, 'click', function() {
-	        infowindow.open(map, marker);
-        });   
-    }
-    google.maps.event.addDomListener(window, 'load', initialize);
+    <script type="text/javascript" src="/home/jajokank/Documents/lakauma/Lakauma/Lakauma/maps/js/map_drawer.js">
+      
     </script>
     <!-- huomio polku, muuta sopivaksi-->
     <link href="/home/jajokank/Documents/bootstrapTutorial/bootstrap/css/bootstrap.css" rel="stylesheet">
