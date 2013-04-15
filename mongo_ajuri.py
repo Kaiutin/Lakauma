@@ -1,4 +1,9 @@
+#-*- coding: utf-8 -*-
 from pymongo import MongoClient
+
+
+# Ohjelma vaatii lokaalisti käynnissä olevan
+# mongo-palvelimen, josta löytyy databaselta asunnot kasa.
 
 def hae_data():
     client = MongoClient()
