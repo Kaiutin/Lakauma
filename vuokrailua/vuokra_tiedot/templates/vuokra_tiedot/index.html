@@ -9,25 +9,21 @@
       #map-canvas { height: 100% }
     </style>
     <script type="text/javascript"
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB0GZA1xgBLhfh-lrvb3J7p_clYSA57OK4&sensor=false"/>
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB0GZA1xgBLhfh-lrvb3J7p_clYSA57OK4&sensor=false">
     </script>
     {% load staticfiles %}
-    <script type="text/javascript" src="{% static 'vuokra_tiedot/jquery-1.9.1.min.js' %}" alt="javascript"/>    
-    {% load staticfiles %}
-    <script type="text/javascript" src="{% static 'vuokra_tiedot/js/map_drawer.js' %}" alt="map_drawer"/>
-      
+    <script type="text/javascript" src="{% static 'vuokra_tiedot/jquery-1.9.1.min.js' %}" alt="javascript"></script>  
+    <script type="text/javascript" src="{% static 'vuokra_tiedot/js/map_drawer.js' %}">
+
     </script>
     <!-- huomio polku, muuta sopivaksi-->
     <link href="{% static 'vuokra_tiedot/css/bootstrap.css' %}" rel="stylesheet">
-    <link href="{% static 'vuokra_tiedot/css/bootstrap-responsive.css' %}" rel="stylesheet">
-
-
+    <link href="{% static 'vuokra_tiedot/css/bootstrap-responsive.css' %}" rel="stylesheet"> 
     <link href="{% static 'vuokra_tiedot/css/bootstrap.min.css' %}" rel="stylesheet" media="screen">
   </head>
   <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
-
         <div class="container">
           <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
 
@@ -47,15 +43,42 @@
           </div><!--/.nav-collapse -->
         </div>
 
-      </div>
-    </div>
+      </div>   
+    </div><!--navbar -->  
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <div class="span3">
+                <div class="well sidebar-nav">
+                    <ul class="nav nav-list">
+                        <li class="nav-header">Hakuehdot</li>
+                        <li class="active"><a href="#">Link</a></li>
+                        <li><a href="#">Link</a></li>
+                        <li><a href="#">Link</a></li>
+                        <li><a href="#">Link</a></li>
 
-    <div class="container">
+                        <li class="nav-header">Sidebar</li>
+                        <li><a href="#">Link</a></li>
+                        <li><a href="#">Link</a></li>
+                        <li><a href="#">Link</a></li>
+                        <li><a href="#">Link</a></li>
+                        <li><a href="#">Link</a></li>
 
-      <h1>Sovellus</h1>
-      <p>Täältä löytyy ehkä joskus kivoja asuntoja.</p>
+                        <li><a href="#">Link</a></li>
+                        <li class="nav-header">Sidebar</li>
+                        <li><a href="#">Link</a></li>
+                        <li><a href="#">Link</a></li>
+                        <li><a href="#">Link</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="span9">
+                <div>
+                    <h1>Sovellus</h1>
+                    <p>Täältä löytyy ehkä joskus kivoja asuntoja.</p>
+                </div>                              
+                <div id="map-canvas" style="height: 400px" class="span12"></div/>            
+            </div>
+        </div>       
     </div>
-    <div id="map-canvas"/>
-	
   </body>
 </html>
