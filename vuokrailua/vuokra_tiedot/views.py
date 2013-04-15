@@ -2,7 +2,7 @@ from django.http import HttpResponse
 from django.template import Context, loader
 from django.shortcuts import render
 import json
-import pymongo
+
 
 def index(request):
     return render(request, 'vuokra_tiedot/index.html')
