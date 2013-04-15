@@ -1,10 +1,35 @@
 from django.http import HttpResponse
-from django.views.static import *
 from django.template import Context, loader
 from django.shortcuts import render
+import json
+import pymongo
 
 def index(request):
     return render(request, 'vuokra_tiedot/index.html')
+
+
+def get_json(request): 
+    data = []
+    with open('/home/samuel/Documents/lakauma/Lakauma/vuokrailua/vuokra_tiedot/items.json') as f:
+        for line in f:
+            data.append(json.loads(line))
+    return HttpResponse(data)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
