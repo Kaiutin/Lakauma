@@ -21,7 +21,20 @@ def find(vuokramin, vuokramax, neliomin, neliomax):
     collection = db.asunnot
     data = []
     for kohde in collection.find():
-        print kohde
-        if (kohde[0] <= vuokramax and kohde[4] <= neliomax): 
+        if (int(kohde["vuokra"]) >= vuokramin and  int(kohde["vuokra"]) <= vuokramax and float(kohde["neliot"]) >= neliomin and float(kohde["neliot"]) <= neliomax): 
             data.append(kohde)
     return data
+    
+def remove():
+    client = MongoClient()
+    db = client.test
+    collection = db.asunnot
+    collection.remove()
+    
+    
+def import():
+    
+    
+    
+def export():
+    
