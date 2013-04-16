@@ -13,3 +13,15 @@ def hae_data():
     for kohde in collection.find():
         data.append(kohde)
     return data
+
+    
+def find(vuokramin, vuokramax, neliomin, neliomax):
+    client = MongoClient()
+    db = client.test
+    collection = db.asunnot
+    data = []
+    for kohde in collection.find():
+        print kohde
+        if (kohde[0] <= vuokramax and kohde[4] <= neliomax): 
+            data.append(kohde)
+    return data
