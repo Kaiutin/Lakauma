@@ -9,46 +9,22 @@ def index(request):
     return render(request, 'vuokra_tiedot/index.html')
 
 
-def get_json(request): 
-    data = mongo_ajuri.hae_data()
-    taulu = ""    
+#def get_json(request):
+#    return HttpResponse(mongo_ajuri.hae_data())
+
+def get_json(request):
+    taulu = mongo_ajuri.hae_data()
+    data = taulu[:]
+    lista = []
     for kohde in data:
-        taulu = taulu + str(kohde) + ","
-    return HttpResponse(taulu[:-1]) 
+        lista.append(kohde)
+    lista1 = json.dumps(lista)
+    return HttpResponse(lista1)
 
+#def get_json(request): 
+#    data = mongo_ajuri.hae_data()
+#    taulu = ""    
+#    for kohde in data:
+#        taulu = taulu + str(kohde) + ","
+#    return HttpResponse(taulu[:-2]) 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#-------------------------#
-def getHTML():
-    html_object = open('/home/samuel/Documents/lakauma/Lakauma/vuokrailua/vuokra_tiedot/map_drawer.html', 'r')
-    file_as_string = ""    
-    for line in html_object:
-        file_as_string = file_as_string + line
-    return file_as_string
-
-def detail(request, poll_id):
-    return HttpResponse("You're looking at poll %s." % poll_id)
-
-def results(request, poll_id):
-    return HttpResponse("You're looking at the results of poll %s." % poll_id)
-
-def vote(request, poll_id):
-    return HttpResponse("You're voting on poll %s." % poll_id)

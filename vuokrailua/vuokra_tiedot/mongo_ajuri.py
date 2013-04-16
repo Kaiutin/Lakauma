@@ -9,10 +9,7 @@ def hae_data():
     client = MongoClient()
     db = client.test
     collection = db.asunnot
-    data = []
-    for kohde in collection.find():
-        data.append(kohde)
-    return data
+    return collection.find({}, {"_id": 0})
 
     
 def find(vuokramin, vuokramax, neliomin, neliomax):
@@ -32,9 +29,9 @@ def remove():
     collection.remove()
     
     
-def import():
+#def import():
     
     
     
-def export():
+#def export():
     

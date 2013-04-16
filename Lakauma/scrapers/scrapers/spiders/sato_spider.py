@@ -23,14 +23,20 @@ class SatoSpider(BaseSpider):
        items = []
        for site in sites:
            item = VuokraKohdeItem()
-           item['osoite'] = site[0].select('text()[normalize-space()]').extract()
+           parsimaton_osoite = str(site[0].select('text()[normalize-space()]').extract()).split("\'")
+           item["osoite"] = parsimaton_osoite[1]
            vajaa = str(site[1].select('text()[normalize-space()]').extract()).split(" ")
            parempi = vajaa[0].split("\'") 
-           item['vuokra'] = parempi[1]
+           item["vuokra"] = str(parempi[1])
            neliot_vaihe1 = str(site[2].select('text()[normalize-space()]').extract()).split(" ")
            neliot_vaihe2 = neliot_vaihe1[0].split("\'")
-           item['neliot'] = neliot_vaihe2[1].replace(',','.')
-           item['tyyppi'] = site[3].select('text()[normalize-space()]').extract()
+           item["neliot"] = str(neliot_vaihe2[1].replace(',','.'))
+           vajaa_tyyppi =  str(site[3].select('text()[normalize-space()]').extract()).split("\'")           
+           item["tyyppi"] = vajaa_tyyppi[1]
            items.append(item)
        return items
+
+def write_file(taulu):
+    f = open('items', 'w')
+                
 

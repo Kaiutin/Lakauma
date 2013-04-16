@@ -32,16 +32,12 @@
 
         var request = new XMLHttpRequest();
         request.onreadystatechange = function() {
-            if (request.readyState == 4) {
-                alert("Borz");
-                var object = JSON.parse(request.responseText);
-                alert(object.vuokra);                
-                for (var i in object.objects) {
-                    var vuokra = object.objects[i].vuokra;
-			        var osoite = object.objects[i].osoite;
-                    if ( i == 2) {
-                        alert("Borz2");
-                    }
+            if (request.readyState == 4) 
+            {
+                var object = JSON.parse(request.responseText);           
+                for (var kohde in object) {
+                    alert(kohde.count)
+
                 }
             }
         }
