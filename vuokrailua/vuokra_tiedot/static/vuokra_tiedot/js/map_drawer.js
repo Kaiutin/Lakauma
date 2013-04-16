@@ -35,8 +35,8 @@
             if (request.readyState == 4) 
             {
                 var object = JSON.parse(request.responseText);           
-                for (var kohde in object) {
-                    alert(kohde.count)
+                for (var i in object) {
+                    alert(object[i].vuokra)
 
                 }
             }
