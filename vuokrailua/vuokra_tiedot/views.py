@@ -2,6 +2,7 @@ from django.http import HttpResponse
 from django.template import Context, loader
 from django.shortcuts import render
 import json
+import mongo_ajuri
 
 
 def index(request):
@@ -9,11 +10,11 @@ def index(request):
 
 
 def get_json(request): 
-    data = []
-    with open('/home/samuel/Documents/lakauma/Lakauma/vuokrailua/vuokra_tiedot/items.json') as f:
-        for line in f:
-            data.append(json.loads(line))
-    return HttpResponse(data)
+    data = mongo_ajuri.hae_data()
+    taulu = []    
+    for kohde in data:
+        taulu.append(kohde)
+    return HttpResponse(taulu)
 
 
 

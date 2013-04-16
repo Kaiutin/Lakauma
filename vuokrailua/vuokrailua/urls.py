@@ -20,5 +20,4 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin:    
     url(r'^vuokra_tiedot/', include('vuokra_tiedot.urls')),
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^results/', include('vuokra_tiedot.urls')),
 )
