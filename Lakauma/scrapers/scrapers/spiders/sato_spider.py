@@ -26,8 +26,10 @@ class SatoSpider(BaseSpider):
            item['osoite'] = site[0].select('text()[normalize-space()]').extract()
            vajaa = str(site[1].select('text()[normalize-space()]').extract()).split(" ")
            parempi = vajaa[0].split("\'") 
-           item['vuokra'] = parempi[1] + " e/kk"
-           item['neliot'] = site[2].select('text()[normalize-space()]').extract()
+           item['vuokra'] = parempi[1]
+           neliot_vaihe1 = str(site[2].select('text()[normalize-space()]').extract()).split(" ")
+           neliot_vaihe2 = neliot_vaihe1[0].split("[")
+           item['neliot'] = neliot_vaihe2[1]
            item['tyyppi'] = site[3].select('text()[normalize-space()]').extract()
            items.append(item)
        return items
