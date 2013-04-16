@@ -28,7 +28,24 @@
         locations[3] = location4;  
         locations[4] = location5;
 
-        drawMarkers(locations, map);            
+        drawMarkers(locations, map); 
+
+        var request = new XMLHttpRequest();
+        request.onreadystatechange = function() {
+            if (request.readyState == 4) {
+                alert("Borz");
+                alert(JSON.parse(request.responseText));
+                
+                /*for (var i in object.objects) {
+                    var vuokra = object.vuokra;
+                    if ( i == 2) {
+                        alert("Borz");
+                    }*/
+                
+            }
+        }
+        request.open('GET', '/vuokra_tiedot/get_json', true);
+        request.send(null);      
 	}
 
     function attachInfoWindow(marker, map) 
