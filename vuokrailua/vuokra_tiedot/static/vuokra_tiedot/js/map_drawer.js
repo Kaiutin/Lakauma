@@ -34,14 +34,15 @@
         request.onreadystatechange = function() {
             if (request.readyState == 4) {
                 alert("Borz");
-                alert(JSON.parse(request.responseText));
-                
-                /*for (var i in object.objects) {
-                    var vuokra = object.vuokra;
+                var object = JSON.parse(request.responseText);
+                alert(object.vuokra);                
+                for (var i in object.objects) {
+                    var vuokra = object.objects[i].vuokra;
+			        var osoite = object.objects[i].osoite;
                     if ( i == 2) {
-                        alert("Borz");
-                    }*/
-                
+                        alert("Borz2");
+                    }
+                }
             }
         }
         request.open('GET', '/vuokra_tiedot/get_json', true);
