@@ -10,11 +10,11 @@ def index(request):
 
 
 def get_json(request): 
-#    data = mongo_ajuri.hae_data()
-#    taulu = []    
-#    for kohde in data:
-#        taulu.append(kohde)
-    return HttpResponse(mongo_ajuri.hae_data())
+    data = mongo_ajuri.hae_data()
+    taulu = ""    
+    for kohde in data:
+        taulu = taulu + str(kohde) + ","
+    return HttpResponse(taulu[:-1]) 
 
 
 
