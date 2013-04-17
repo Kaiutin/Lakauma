@@ -18,8 +18,7 @@ def get_json(request):
     lista = []
     for kohde in data:
         lista.append(kohde)
-    lista1 = json.dumps(lista)
-    return HttpResponse(lista1)
+    return HttpResponse(json.dumps(lista))
 
 #def get_json(request): 
 #    data = mongo_ajuri.hae_data()
