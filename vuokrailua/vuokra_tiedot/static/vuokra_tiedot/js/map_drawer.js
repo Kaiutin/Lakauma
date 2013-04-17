@@ -14,33 +14,16 @@
 
         geocoder = new google.maps.Geocoder();
           
-        var location1 = "Tyyppäläntie 8 F 47, Jyväskylä";
-        var location2 = "Väinönkatu 40, Jyväskylä";
-        var location3 = "Kauppakatu 18, Jyväskylä";
-        var location4 = "Nilatie 4, Muurame";
-        var location5 = "Humppakuja 2, Jyväskylä";
-             
-        var locations = new Array(); 
-
-        locations[0] = location1;
-        locations[1] = location2;
-        locations[2] = location3;
-        locations[3] = location4;  
-        locations[4] = location5;
-
-        drawMarkers(locations, map); 
-
         var request = new XMLHttpRequest();
         request.onreadystatechange = function() {
             if (request.readyState == 4) 
             {
                 var object = JSON.parse(request.responseText);           
                 for (var i in object) {
-                    alert(object[i].vuokra)
-
+                    drawMarkers(object[i], map);
                 }
             }
-        }
+        };
         request.open('GET', '/vuokra_tiedot/get_json', true);
         request.send(null);      
 	}
@@ -60,27 +43,25 @@
 
     google.maps.event.addDomListener(window, 'load', initialize);
 
-    function drawMarkers(locations, map) 
+    function drawMarkers(obj, map) 
     {
-        for (var i = 0; i < locations.length; i++)
+        alert(obj.osoite);
+        var address = obj.osoite.toString() + "Jyväskylä";
+        geocoder.geocode({'address': address}, function(results, status)
         {
-            var address = locations[i];
-            geocoder.geocode({'address': address}, function(results, status)
+            if (status == google.maps.GeocoderStatus.OK) 
             {
-                if (status == google.maps.GeocoderStatus.OK) 
+                map.setCenter(results[0].geometry.location);
+                marker = new google.maps.Marker (
                 {
-                    map.setCenter(results[0].geometry.location);
-                    marker = new google.maps.Marker (
-                    {
-                        map: map,
-                        position: results[0].geometry.location
-                    });
-                    attachInfoWindow(marker, map);
-                } 
-                else 
-                {
-                  alert("Geocode was not succesful for the following reason: " + status);
-                }  
-             });          
-        }       
-    }
+                    map: map,
+                    position: results[0].geometry.location
+                });
+                //attachInfoWindow(marker, map);
+            } 
+            else 
+            {
+              alert("Geocode was not succesful for the following reason: " + status);
+            }  
+         });                
+    }       
