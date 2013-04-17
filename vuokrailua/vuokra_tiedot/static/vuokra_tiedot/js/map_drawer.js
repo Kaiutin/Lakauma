@@ -28,9 +28,10 @@
         request.send(null);      
 	}
 
-    function attachInfoWindow(marker, map) 
+    function attachInfoWindow(marker, map, obj) 
     {
-        content = "<h1>uliuli</h1>";
+        content = "<h3>" + obj.osoite.toString() + "</h3> <ul> <li>" + obj.vuokra.toString() + " €/kk </li> <li>" + obj.neliot.toString() + " m2 </li> <li>" + obj.tyyppi.toString() + "</li></ul>";
+        
         
         var infowindow = new google.maps.InfoWindow({
 	        content: content
@@ -45,7 +46,6 @@
 
     function drawMarkers(obj, map) 
     {
-        alert(obj.osoite);
         var address = obj.osoite.toString() + "Jyväskylä";
         geocoder.geocode({'address': address}, function(results, status)
         {
@@ -56,8 +56,9 @@
                 {
                     map: map,
                     position: results[0].geometry.location
+                    
                 });
-                //attachInfoWindow(marker, map);
+                attachInfoWindow(marker, map, obj);
             } 
             else 
             {
