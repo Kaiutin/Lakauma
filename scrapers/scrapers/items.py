@@ -10,4 +10,6 @@ class VuokraKohdeItem(Item):
     neliot = Field()
     vuokra = Field()
     tyyppi = Field()
+    lat = Field()
+    lng = Field()
     linkki = Field()
