@@ -10,7 +10,7 @@ from ftfy import fix_text
 #Spider hakemaan asuntokohteiden tietoa sato.fi sivulta. 
 #TODO: muokkaa hakemaan kaikki tiedot
 class SatoSpider(BaseSpider):
-   name = "sato"
+   name = "sato" #This is the name you use to call the spider from update script.
    allowed_domains = ["sato.fi"]
    start_urls = ["http://sato.fi/cps/sato/hs.xsl/-/html/hakutulos_vuokra.htm?cityname=&dd_city=259&dd_district=&dd_rooms1=1&dd_rooms2=1&dd_rooms3=1&dd_rooms4=1&dd_rooms5=1&dd_areafrom=0&dd_areato=99999&dd_rentfrom=0&dd_rentto=99999&dd_results=10"]
 
@@ -40,8 +40,4 @@ class SatoSpider(BaseSpider):
   #         item["lng"] = lng
            items.append(item)
        return items
-
-def write_file(taulu):
-    f = open('items', 'w')
-                
 

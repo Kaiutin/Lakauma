@@ -1,17 +1,17 @@
 #-*- coding: utf-8 -*-
 from pymongo import MongoClient
 
+# This module is responsible for communicating with mongodb 
+# running locally on your computer. 
 
-# Ohjelma vaatii lokaalisti käynnissä olevan
-# mongo-palvelimen, josta löytyy databaselta asunnot kasa.
-
+# Get current apartments data (asunnot) from database.
 def hae_data():
     client = MongoClient()
     db = client.test
     collection = db.asunnot
     return collection.find({}, {"_id": 0})
 
-    
+
 def find(vuokramin, vuokramax, neliomin, neliomax):
     client = MongoClient()
     db = client.test
