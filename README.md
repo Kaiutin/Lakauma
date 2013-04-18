@@ -21,6 +21,8 @@ To run the application you need:
 * pymongo 
 * cron (or similar scheduling system)
 * scrapy
+* seleniumHQ
+* (currently firefox for seleniumHQ to run)
 
 Additionally you will need to have mongodb running. Assuming you have installed mongodb, 
 for running it and importing necessary files please refer to /docs/mongoStart.txt for instructions.
