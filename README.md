@@ -2,7 +2,7 @@ Lakauma
 =======
 
 This projects aim is to create an application to help visualize the locations of rental 
-apartments in Jyväskylä region. After this version is complete we will be releasing more general
+apartments in Jyväskylä region. After this version is complete we will be releasing a more general
 version of the application. The application is accessed via browser, and the default 
 url (assuming you are running the server locally) is "http://127.0.0.1:8000/vuokra_tiedot/".
 The application should present a Google maps map, with different search-matching apartments marked. 
@@ -35,5 +35,5 @@ items.json file displayed on map.
 Daily database updates will be implemented later.
 
 This guide is updated regularly as the project advances, so above requirements and instructions are not quaranteed to 
-be comrehensive. If you have trouble running the application please wait for a few days for the list to update, 
+be comprehensive. If you have trouble running the application please wait for a few days for the list to update, 
 and if the problem persists, please contact us at kaiutindev(at)gmail.com
