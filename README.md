@@ -23,7 +23,7 @@ To run the application you need:
 * scrapy
 
 Additionally you will need to have mongodb running. Assuming you have installed mongodb, 
-for running it and importing necessary files please refer to /scripts/mongoStart.txt for instructions.
+for running it and importing necessary files please refer to /docs/mongoStart.txt for instructions.
 
 Running the server is done simply by changing the working directory to /vuokrailua/,
 and running "python manage.py runserver". Assuming that requirements are correctly installed,
