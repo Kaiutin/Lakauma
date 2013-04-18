@@ -47,7 +47,7 @@
 
     function drawMarkers(obj, map) 
     {
-        var address = obj.osoite.toString() + "Jyväskylä";
+        var address = obj.osoite.toString() + " Jyväskylä";
         geocoder.geocode({'address': address}, function(results, status)
         {
             if (status == google.maps.GeocoderStatus.OK) 
