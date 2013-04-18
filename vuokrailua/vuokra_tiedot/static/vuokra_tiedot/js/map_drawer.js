@@ -1,6 +1,7 @@
     var geocoder;
     var map;   
-    var marker;
+    //var marker;
+    var infowindow;
     function initialize() {	
 
         //Center the map to desired location        
@@ -32,14 +33,19 @@
     // Create infowindows for markers
     function attachInfoWindow(marker, map, obj) 
     {
+        var content = " ";
         content = "<h3>" + obj.osoite.toString() + "</h3> <ul> <li>" + obj.vuokra.toString() + " €/kk </li> <li>" + obj.neliot.toString() + " m2 </li> <li>" + obj.tyyppi.toString() + "</li></ul>";
-                
-        var infowindow = new google.maps.InfoWindow({
-	        content: content
-        });  
-
+     
         google.maps.event.addListener(marker, 'click', function() {
-	        infowindow.open(map, marker);
+            
+            // Close any open infowindows if a new is opened
+            if (infowindow) infowindow.close();
+
+            infowindow = new google.maps.InfoWindow({
+	            content: content
+        
+            });
+            infowindow.open(map, marker);
         });   
     }
 
@@ -50,7 +56,7 @@
         var location = new google.maps.LatLng(obj.lat, obj.lng);
                 
         map.setCenter(location);
-        marker = new google.maps.Marker (
+        var marker = new google.maps.Marker (
         {
             map: map,
             position: location
