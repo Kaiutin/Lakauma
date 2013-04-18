@@ -2,6 +2,7 @@
     var map;   
     var marker;
     function initialize() {	
+
         //Center the map to desired location        
         var mapOptions = {
           center: new google.maps.LatLng(62.2500, 25.7600),
@@ -11,8 +12,6 @@
         
         map = new google.maps.Map(document.getElementById("map-canvas"),
             mapOptions);
-
-        //geocoder = new google.maps.Geocoder();
           
         var request = new XMLHttpRequest();
         request.onreadystatechange = function() {
@@ -24,6 +23,7 @@
                 }
             }
         };
+
         // Get json object from server. 
         request.open('GET', '/vuokra_tiedot/get_json', true);
         request.send(null);      
@@ -47,23 +47,15 @@
 
     function drawMarkers(obj, map) 
     {
-        var address = obj.osoite.toString() + " Jyväskylä";
-        geocoder.geocode({'address': address}, function(results, status)
+        var location = new google.maps.LatLng(obj.lat, obj.lng);
+                
+        map.setCenter(location);
+        marker = new google.maps.Marker (
         {
-            if (status == google.maps.GeocoderStatus.OK) 
-            {
-                map.setCenter(results[0].geometry.location);
-                marker = new google.maps.Marker (
-                {
-                    map: map,
-                    position: results[0].geometry.location
-                    
-                });
-                attachInfoWindow(marker, map, obj);
-            } 
-            else 
-            {
-              alert("Geocode was not succesful for the following reason: " + status);
-            }  
-         });                
+            map: map,
+            position: location
+            
+        });
+        attachInfoWindow(marker, map, obj);
+                  
     }       
