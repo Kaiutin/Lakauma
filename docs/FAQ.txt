@@ -1,0 +1,3 @@
+Frequently encountered errors with getting and running "vuokra_tiedot" application:
+
+
