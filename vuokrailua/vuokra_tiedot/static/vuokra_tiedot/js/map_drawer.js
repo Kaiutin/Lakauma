@@ -12,7 +12,7 @@
         map = new google.maps.Map(document.getElementById("map-canvas"),
             mapOptions);
 
-        geocoder = new google.maps.Geocoder();
+        //geocoder = new google.maps.Geocoder();
           
         var request = new XMLHttpRequest();
         request.onreadystatechange = function() {
