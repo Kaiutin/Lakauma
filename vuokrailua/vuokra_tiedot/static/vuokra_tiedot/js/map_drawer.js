@@ -1,6 +1,5 @@
     var geocoder;
     var map;   
-    //var marker;
     var infowindow;
     function initialize() {	
 
