@@ -21,4 +21,15 @@ def get_json(request):
         lista.append(kohde)
     return HttpResponse(json.dumps(lista))
 
+def search_form(request):
+    vuokra_min = str(request.GET.get('vuokra_min'))
+    vuokra_max = str(request.GET.get('vuokra_max'))
+    neliot_min = str(request.GET.get('neliot_min'))
+    neliot_max = str(request.GET.get('neliot_max'))
+    taulu = mongo_ajuri.find(vuokra_min, vuokra_max, neliot_min, neliot_max)
+    data = taulu[:]
+    lista = []
+    for kohde in data:
+        lista.append(kohde)
+    return HttpResponse(json.dumps(lista))
 
