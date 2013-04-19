@@ -21,4 +21,5 @@ def get_json(request):
         lista.append(kohde)
     return HttpResponse(json.dumps(lista))
 
-
+def search_form(request):
+    return HttpResponse("Hello World!")	

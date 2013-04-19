@@ -17,7 +17,8 @@
     <!-- Here you can define the scripts and other static files you wish to deploy from /vuokra_tiedot/static/vuokra_tiedot/ --> 
     <script type="text/javascript" src="{% static 'vuokra_tiedot/jquery-1.9.1.min.js' %}" alt="javascript"></script>  
     <script type="text/javascript" src="{% static 'vuokra_tiedot/js/map_drawer.js' %}">
-
+    </script>
+	<script type="text/javascript" src="{% static 'vuokra_tiedot/js/form_handler.js' %}">
     </script>
 
     <link href="{% static 'vuokra_tiedot/css/bootstrap.css' %}" rel="stylesheet">
@@ -55,17 +56,17 @@
                 <div class="well sidebar-nav">
                     <ul class="nav nav-list">
                         <li class="nav-header">Hakuehdot</li>
-                        <form name="input" action="html_form_action.asp" method="get">
-                              MinHinta: <input type="text" name="hinta_min"><br>
-                              MaxHinta: <input type="text" name="hinta_max"><br>
-                              MinNeliot: <input type="text" name="neliot_min"><br>
-                              MaxNeliot: <input type="text" name="neliot_max"><br>
+                        <form name="search_form" action="html_form_action.asp" method="get">
+                              MinVuokra: <input type="text" id="vuokra_min" name="vuokra_min"><br>
+                              MaxVuokra: <input type="text" id="vuokra_max" name="vuokra_max"><br>
+                              MinNeliot: <input type="text" id="neliot_min" name="neliot_min"><br>
+                              MaxNeliot: <input type="text" id="neliot_max" name="neliot_max"><br>
 
-                              <input type="checkbox" name="tyyppi" value="1h+k">1h+k<br>
-                              <input type="checkbox" name="tyyppi" value="2h+k">2h+k<br>
-                              <input type="checkbox" name="tyyppi" value="3h+k">3h+k<br>
-                              <input type="checkbox" name="tyyppi" value="4h+k">4h+k<br> 
-                              <input type="submit" value="Submit">
+                              <input type="checkbox" name="tyyppi" id="tyyppi1h" value="1h+k">1h+k<br>
+                              <input type="checkbox" name="tyyppi" id="tyyppi2h" value="2h+k">2h+k<br>
+                              <input type="checkbox" name="tyyppi" id="tyyppi3h" value="3h+k">3h+k<br>
+                              <input type="checkbox" name="tyyppi" id="tyyppi4h" value="4h+k">4h+k<br> 
+                              <input type="submit" onclick="sendSearchData()" id="submitButton" value="Submit">
                               </form>
 
                         <li class="nav-header">Sidebar</li>
