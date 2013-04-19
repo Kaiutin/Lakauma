@@ -22,22 +22,22 @@ function sendSearchData() {
 
     /*alert(vuokra_min + vuokra_max + neliot_min + neliot_max + tyyppi1h + tyyppi2h + tyyppi3h + tyyppi4h);*/
 
-    var ulr = "/vuokra_tiedot/search_form/html_form_action.asp?vuokra_min=" + vuokra_min + "&vuokra_max=" + vuokra_max + "&neliot_min=" + neliot_min + "&neliot_max=" + neliot_max;
-    alert(ulr);
+    var url = "/vuokra_tiedot/search_form/html_form_action.asp?vuokra_min=" + vuokra_min + "&vuokra_max=" + vuokra_max + "&neliot_min=" + neliot_min + "&neliot_max=" + neliot_max;
+    alert(url);
 
     var request = new XMLHttpRequest();
-        request.onreadystatechange = function() {
+    request.onreadystatechange = function() {
             if (request.readyState == 4) 
             {
                 var object = JSON.parse(request.responseText);           
                 for (var i in object) {
                     drawMarkers(object[i], map);
-                }
-            }
+                };
+            };
         };
 
-        // Get json object from server. 
-        request.open('GET', url, true);
-        request.send(null);      
+    // Get json object from server. 
+    request.open('GET', url, true);
+    request.send(null);      
     //alert(window.location.href);
 }

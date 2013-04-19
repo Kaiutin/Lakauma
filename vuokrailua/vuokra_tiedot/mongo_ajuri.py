@@ -5,7 +5,7 @@ from pymongo import MongoClient
 # running locally on your computer. 
 
 # Get current apartments data (asunnot) from database.
-def hae_data():
+def hae_data(vuokramin=0, vuokramax=100000000, neliomin=0, neliomax=100000):
     client = MongoClient()
     db = client.test
     collection = db.asunnot
