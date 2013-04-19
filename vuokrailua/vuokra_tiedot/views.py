@@ -33,3 +33,4 @@ def search_form(request):
         lista.append(kohde)
     return HttpResponse(json.dumps(lista))
 
+
