@@ -22,7 +22,7 @@ function sendSearchData() {
 
     /*alert(vuokra_min + vuokra_max + neliot_min + neliot_max + tyyppi1h + tyyppi2h + tyyppi3h + tyyppi4h);*/
 
-    var url = "/vuokra_tiedot/search_form/html_form_action.asp?vuokra_min=" + vuokra_min + "&vuokra_max=" + vuokra_max + "&neliot_min=" + neliot_min + "&neliot_max=" + neliot_max;
+    var url = "/vuokra_tiedot/get_json/html_form_action.asp?vuokra_min=" + vuokra_min + "&vuokra_max=" + vuokra_max + "&neliot_min=" + neliot_min + "&neliot_max=" + neliot_max;
     alert(url);
 
     var request = new XMLHttpRequest();
