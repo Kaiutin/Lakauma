@@ -9,6 +9,7 @@
 
 
 from ftfy import fix_text
+from bs4 import BeautifulSoup
 
 def parseilu():
     # Insert the page specific keywords here

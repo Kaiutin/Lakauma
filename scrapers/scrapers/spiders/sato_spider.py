@@ -13,7 +13,8 @@ class SatoSpider(BaseSpider):
    name = "sato" #This is the name you use to call the spider from update script.
    allowed_domains = ["sato.fi"]
    start_urls = ["http://sato.fi/cps/sato/hs.xsl/-/html/hakutulos_vuokra.htm?cityname=&dd_city=259&dd_district=&dd_rooms1=1&dd_rooms2=1&dd_rooms3=1&dd_rooms4=1&dd_rooms5=1&dd_areafrom=0&dd_areato=99999&dd_rentfrom=0&dd_rentto=99999&dd_results=10"]
-   def parse(self, response):
+ 
+  def parse(self, response):
        hxs = HtmlXPathSelector(response)
        sitesOsoite = hxs.select('//td[(((count(preceding-sibling::*) + 1) = 4) and parent::*)][normalize-space()]')
        sitesVuokra = hxs.select('//td[(((count(preceding-sibling::*) + 1) = 6) and parent::*)]')
