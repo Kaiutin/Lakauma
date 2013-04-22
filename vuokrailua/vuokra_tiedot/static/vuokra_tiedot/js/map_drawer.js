@@ -1,6 +1,7 @@
     var geocoder;
     var map;   
     var infowindow;
+    var markers = [];
     function initialize() {	
 
         //Center the map to desired location        
@@ -61,6 +62,13 @@
             position: location
             
         });
+        markers.push(marker);
         attachInfoWindow(marker, map, obj);
                   
-    }       
+    }     
+
+// Deletes all markers from the map by removing references to them
+function removeMarkers () {  
+    setAllmap(null);
+    markers = [];
+}

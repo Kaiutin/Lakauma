@@ -40,4 +40,5 @@ function sendSearchData() {
     request.open('GET', url, true);
     request.send(null);      
     //alert(window.location.href);
-}
+    removeMarkers();
+}   

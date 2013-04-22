@@ -20,6 +20,8 @@
     </script>
 	<script type="text/javascript" src="{% static 'vuokra_tiedot/js/form_handler.js' %}">
     </script>
+   <!-- <script type="text/javascript" src="{% static 'vuokra_tiedot/js/bootstrap-slider.js' %}">
+    </script>-->
 
     <link href="{% static 'vuokra_tiedot/css/bootstrap.css' %}" rel="stylesheet">
     <link href="{% static 'vuokra_tiedot/css/bootstrap-responsive.css' %}" rel="stylesheet"> 
@@ -57,10 +59,10 @@
                     <ul class="nav nav-list">
                         <li class="nav-header">Hakuehdot</li>
                         <form name="search_form">
-                              MinVuokra: <input type="text" class="span12" id="vuokra_min" name="vuokra_min" data-slider-min="10" data-slider-max="1000" data-slider-step="1" data-slider-value="[250-450]"><br>
-                              MaxVuokra: <input type="text" class="span12" id="vuokra_max" name="vuokra_max"><br>
-                              MinNeliot: <input type="text" class="span12" id="neliot_min" name="neliot_min"><br>
-                              MaxNeliot: <input type="text" class="span12" id="neliot_max" name="neliot_max"><br>
+                              Minimi vuokra: <input type="text" class="span12" id="vuokra_min" name="vuokra_min" data-slider-min="10" data-slider-max="1000" data-slider-step="1" data-slider-value="[250-450]"><br>
+                              Maksimi vuokra: <input type="text" class="span12" id="vuokra_max" name="vuokra_max"><br>
+                              Minimi neliöt: <input type="text" class="span12" id="neliot_min" name="neliot_min"><br>
+                              Maksimi neliöt: <input type="text" class="span12" id="neliot_max" name="neliot_max"><br>
 
                               <input type="checkbox" name="tyyppi" id="tyyppi1h" value="1h+k">1h+k<br>
                               <input type="checkbox" name="tyyppi" id="tyyppi2h" value="2h+k">2h+k<br>
