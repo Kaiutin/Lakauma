@@ -1,4 +1,5 @@
 function sendSearchData() {
+    removeMarkers();
     var vuokra_min = document.getElementById('vuokra_min').value;
     var vuokra_max = document.getElementById('vuokra_max').value;
     var neliot_min = document.getElementById('neliot_min').value;
@@ -39,6 +40,7 @@ function sendSearchData() {
     // Get json object from server. 
     request.open('GET', url, true);
     request.send(null);      
-    //alert(window.location.href);
-    removeMarkers();
+    //alert(window.location.href);  
+
+    
 }   

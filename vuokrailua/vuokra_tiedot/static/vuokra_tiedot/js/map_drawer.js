@@ -1,4 +1,3 @@
-    var geocoder;
     var map;   
     var infowindow;
     var markers = [];
@@ -14,7 +13,7 @@
         map = new google.maps.Map(document.getElementById("map-canvas"),
             mapOptions);
           
-/*        var request = new XMLHttpRequest();
+        var request = new XMLHttpRequest();
         request.onreadystatechange = function() {
             if (request.readyState == 4) 
             {
@@ -27,7 +26,7 @@
 
         // Get json object from server. 
         request.open('GET', '/vuokra_tiedot/get_json', true);
-        request.send(null);*/     
+        request.send(null);
 	}
 
     // Create infowindows for markers
@@ -69,6 +68,13 @@
 
 // Deletes all markers from the map by removing references to them
 function removeMarkers () {  
-    setAllmap(null);
+    setAllMap(null);
     markers = [];
+}
+
+// Sets the map on all markers in the array.
+function setAllMap(map) {
+  for (var i = 0; i < markers.length; i++) {
+    markers[i].setMap(map);
+  }
 }
