@@ -14,7 +14,7 @@
         map = new google.maps.Map(document.getElementById("map-canvas"),
             mapOptions);
           
-        var request = new XMLHttpRequest();
+/*        var request = new XMLHttpRequest();
         request.onreadystatechange = function() {
             if (request.readyState == 4) 
             {
@@ -27,7 +27,7 @@
 
         // Get json object from server. 
         request.open('GET', '/vuokra_tiedot/get_json', true);
-        request.send(null);     
+        request.send(null);*/     
 	}
 
     // Create infowindows for markers
