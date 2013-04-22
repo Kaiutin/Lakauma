@@ -1,12 +1,13 @@
 [{"vuokra": "894", "osoite": "Ainolankaari 1 ", "neliot": "76", "lat": 62.229719, "lng": 25.7597279, "tyyppi": "3h+k+s"},
+{"vuokra": "699", "osoite": "Ailakinkatu 18 ", "neliot": "45.5", "lat": 62.2485404, "lng": 25.7571971, "tyyppi": "2h+kk+s"},
+{"vuokra": "682", "osoite": "Kiramo 3 ", "neliot": "48", "lat": 62.2426562, "lng": 25.7628315, "tyyppi": "2h+kk+s"},
 {"vuokra": "905", "osoite": "Kiramo 3 ", "neliot": "65.5", "lat": 62.2426562, "lng": 25.7628315, "tyyppi": "3h+k+s"},
-{"vuokra": "670", "osoite": "Laajavuorentie 11 ", "neliot": "70", "lat": 62.2539415, "lng": 25.6991579, "tyyppi": "3h+k"},
 {"vuokra": "678", "osoite": "Laajavuorentie 11 ", "neliot": "70", "lat": 62.2539415, "lng": 25.6991579, "tyyppi": "3h+k"},
 {"vuokra": "546", "osoite": "Keltinm\\xe4entie 27 ", "neliot": "41", "lat": 62.244747, "lng": 25.7472184, "tyyppi": "2h+kk"},
 {"vuokra": "1095", "osoite": "Ailakinkatu 13 ", "neliot": "92.5", "lat": 62.2491856, "lng": 25.7585013, "tyyppi": "4h+k+s"},
 {"vuokra": "665", "osoite": "Karsikkotie 3 ", "neliot": "74.5", "lat": 62.2662223, "lng": 25.7984969, "tyyppi": "3h+k"},
 {"vuokra": "629", "osoite": "Karsikkotie 5 ", "neliot": "74.5", "lat": 62.26685939999999, "lng": 25.798789, "tyyppi": "3h+k"},
-{"vuokra": "785", "osoite": "Rautpohjankatu 5 ", "neliot": "64", "lat": 62.23781039999999, "lng": 25.7205621, "tyyppi": "3h+k"},
+{"vuokra": "893", "osoite": "Rautpohjankatu 3 ", "neliot": "64", "lat": 62.2375965, "lng": 25.72013, "tyyppi": "3h+k"},
 {"vuokra": "799", "osoite": "Rautpohjankatu 7 ", "neliot": "64", "lat": 62.2380272, "lng": 25.7209742, "tyyppi": "3h+k"},
 {"vuokra": "539", "osoite": "Rautpohjankatu 11 ", "neliot": "22", "lat": 62.23845859999999, "lng": 25.7218068, "tyyppi": "1h+kk"},
 {"vuokra": "565", "osoite": "Rautpohjankatu 11 ", "neliot": "45", "lat": 62.23845859999999, "lng": 25.7218068, "tyyppi": "2h+kk"},
@@ -26,5 +27,4 @@
 {"vuokra": "624", "osoite": "Syrj\\xe4l\\xe4nkatu 12 ", "neliot": "43.5", "lat": 62.244747, "lng": 25.7472184, "tyyppi": "2h+k"},
 {"vuokra": "557", "osoite": "Syrj\\xe4l\\xe4nkatu 12 ", "neliot": "24.5", "lat": 62.244747, "lng": 25.7472184, "tyyppi": "1h+k"},
 {"vuokra": "817", "osoite": "Syrj\\xe4l\\xe4nkatu 2 ", "neliot": "84", "lat": 62.244747, "lng": 25.7472184, "tyyppi": "4h+k"},
-{"vuokra": "695", "osoite": "Vaneritori 3 ", "neliot": "52", "lat": 62.24109229999999, "lng": 25.7630284, "tyyppi": "2h+k"},
-{"vuokra": "739", "osoite": "Vaneritori 3 ", "neliot": "52", "lat": 62.24109229999999, "lng": 25.7630284, "tyyppi": "2h+k"}]
+{"vuokra": "695", "osoite": "Vaneritori 3 ", "neliot": "52", "lat": 62.24109229999999, "lng": 25.7630284, "tyyppi": "2h+k"}]

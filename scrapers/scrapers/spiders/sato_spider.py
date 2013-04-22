@@ -4,7 +4,7 @@ from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
 from scrapers.items import VuokraKohdeItem
 from ftfy import fix_text
-from geopy import geocoders
+from geocode import oma_geocode
 
 
 #Spider hakemaan asuntokohteiden tietoa sato.fi sivulta. 
@@ -13,7 +13,6 @@ class SatoSpider(BaseSpider):
    name = "sato" #This is the name you use to call the spider from update script.
    allowed_domains = ["sato.fi"]
    start_urls = ["http://sato.fi/cps/sato/hs.xsl/-/html/hakutulos_vuokra.htm?cityname=&dd_city=259&dd_district=&dd_rooms1=1&dd_rooms2=1&dd_rooms3=1&dd_rooms4=1&dd_rooms5=1&dd_areafrom=0&dd_areato=99999&dd_rentfrom=0&dd_rentto=99999&dd_results=10"]
-
    def parse(self, response):
        hxs = HtmlXPathSelector(response)
        sitesOsoite = hxs.select('//td[(((count(preceding-sibling::*) + 1) = 4) and parent::*)][normalize-space()]')
@@ -22,7 +21,6 @@ class SatoSpider(BaseSpider):
        sitesTyyppi = hxs.select('//td[(((count(preceding-sibling::*) + 1) = 2) and parent::*)]//a')
        sites = zip(sitesOsoite, sitesVuokra, sitesNeliot, sitesTyyppi)
        items = []
-       geocoder = geocoders.GoogleV3()
        for site in sites:
            item = VuokraKohdeItem()
            parsimaton_osoite = str(site[0].select('text()[normalize-space()]').extract()).split("\'")
@@ -35,7 +33,7 @@ class SatoSpider(BaseSpider):
            item["neliot"] = str(neliot_vaihe2[1].replace(',','.'))
            vajaa_tyyppi =  str(site[3].select('text()[normalize-space()]').extract()).split("\'")           
            item["tyyppi"] = vajaa_tyyppi[1]
-           place, (lat, lng) = geocoder.geocode(parsimaton_osoite[1] + "Jyväskylä")  
+           place, (lat, lng) = oma_geocode(parsimaton_osoite[1] + "Jyväskylä")  
            item["lat"] = lat
            item["lng"] = lng
            items.append(item)

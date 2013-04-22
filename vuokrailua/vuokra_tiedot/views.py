@@ -22,15 +22,27 @@ def index(request):
 #    return HttpResponse(json.dumps(lista))
 
 def get_json(request):
-    vuokra_min = str(request.GET.get('vuokra_min'))
-    vuokra_max = str(request.GET.get('vuokra_max'))
-    neliot_min = str(request.GET.get('neliot_min'))
-    neliot_max = str(request.GET.get('neliot_max'))
+    try:
+        vuokra_min = int(request.GET.get('vuokra_min'))
+    except TypeError:
+        vuokra_min = 0
+    try:
+        vuokra_max = int(request.GET.get('vuokra_max'))
+    except TypeError: 
+        vuokra_max = 99999
+    try:
+        neliot_min = int(request.GET.get('neliot_min'))
+    except TypeError: 
+        neliot_min = 0
+    try:
+        neliot_max = int(request.GET.get('neliot_max'))
+    except TypeError: 
+        neliot_max = 99999
     taulu = mongo_ajuri.hae_data(vuokra_min, vuokra_max, neliot_min, neliot_max)
-    data = taulu[:]
-    lista = []
-    for kohde in data:
-        lista.append(kohde)
-    return HttpResponse(json.dumps(lista))
+#    data = taulu[:]
+#    lista = []
+#    for kohde in data:
+#        lista.append(kohde)
+    return HttpResponse(json.dumps(taulu))
 
 
