@@ -21,8 +21,6 @@ function sendSearchData() {
         var tyyppi4h = document.getElementById('tyyppi4h').value;
     }        
 
-    /*alert(vuokra_min + vuokra_max + neliot_min + neliot_max + tyyppi1h + tyyppi2h + tyyppi3h + tyyppi4h);*/
-
     var url = "/vuokra_tiedot/get_json?vuokra_min=" + vuokra_min + "&vuokra_max=" + vuokra_max + "&neliot_min=" + neliot_min + "&neliot_max=" + neliot_max;
     alert(url);
 
@@ -39,8 +37,5 @@ function sendSearchData() {
 
     // Get json object from server. 
     request.open('GET', url, true);
-    request.send(null);      
-    //alert(window.location.href);  
-
-    
+    request.send(null);       
 }   
