@@ -5,11 +5,25 @@ from pymongo import MongoClient
 # running locally on your computer. 
 
 # Get current apartments data (asunnot) from database.
-def hae_data(vuokramin=0, vuokramax=100000000, neliomin=0, neliomax=100000):
+#def hae_data(vuokramin=0, vuokramax=100000000, neliomin=0, neliomax=100000):
+#    client = MongoClient()
+#    db = client.test
+#    collection = db.asunnot
+#    return collection.find({ "vuokra": { "$gte": vuokramin, "$lte": #vuokramax }},{_id: 0})
+
+def hae_data(vuokramin, vuokramax, neliomin, neliomax):
     client = MongoClient()
     db = client.test
     collection = db.asunnot
-    return collection.find({ "vuokra": { "$gte": vuokramin, "$lte": vuokramax }})
+    
+    data = []
+    for kohde in collection.find():
+        if (int(kohde["vuokra"]) >= vuokramin and  int(kohde["vuokra"]) <= vuokramax and float(kohde["neliot"]) >= neliomin and float(kohde["neliot"]) <= neliomax): 
+            data.append(kohde)
+    data = data[:]
+    
+    return data
+
     
 def remove():
     client = MongoClient()
