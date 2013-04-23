@@ -10,7 +10,7 @@ from scrapers.items import VuokraKohdeItem
 class KoasSpider(BaseSpider):
     name = "koas" #This is the name you use to call the spider from update script.
     allowed_domains = ["koas.fi"]
-    start_urls = ["http://koas.fi/fi/kohteet/keltinmaki/", "http://koas.fi/fi/kohteet/jyvanen", "http://koas.fi/fi/kohteet/veturi"] # "http://koas.fi/fi/kohteet/roninmaki", "http://koas.fi/fi/kohteet/myllyjarvi", "http://koas.fi/fi/kohteet/ristonmaa", "http://koas.fi/fi/kohteet/hospa", "http://koas.fi/fi/kohteet/konsa", "http://koas.fi/fi/kohteet/letkut", "http://koas.fi/fi/kohteet/ratapiha", "http://koas.fi/fi/kohteet/kotiraide", "http://koas.fi/fi/kohteet/tahkonkaari", "http://koas.fi/fi/kohteet/koppari", "http://koas.fi/fi/kohteet/palstatie-3", "http://koas.fi/fi/kohteet/palstatie-4", "http://koas.fi/fi/kohteet/ykkospesa", "http://koas.fi/fi/kohteet/etela-kekkola", "http://koas.fi/fi/kohteet/ainola", "http://koas.fi/fi/kohteet/sillanpaa", "http://koas.fi/fi/kohteet/tango", "http://koas.fi/fi/kohteet/humppa", "http://koas.fi/fi/kohteet/ai", "http://koas.fi/fi/kohteet/rantapolku", "http://koas.fi/fi/kohteet/auvilankuja", "http://koas.fi/fi/kohteet/laajavuori", "http://koas.fi/fi/kohteet/taitoniekantie"]
+    start_urls = ["http://koas.fi/fi/kohteet/keltinmaki/", "http://koas.fi/fi/kohteet/etela-kekkola", "http://koas.fi/fi/kohteet/jyvanen", "http://koas.fi/fi/kohteet/veturi"] # "http://koas.fi/fi/kohteet/roninmaki", "http://koas.fi/fi/kohteet/myllyjarvi", "http://koas.fi/fi/kohteet/ristonmaa", "http://koas.fi/fi/kohteet/hospa", "http://koas.fi/fi/kohteet/konsa", "http://koas.fi/fi/kohteet/letkut", "http://koas.fi/fi/kohteet/ratapiha", "http://koas.fi/fi/kohteet/kotiraide", "http://koas.fi/fi/kohteet/tahkonkaari", "http://koas.fi/fi/kohteet/koppari", "http://koas.fi/fi/kohteet/palstatie-3", "http://koas.fi/fi/kohteet/palstatie-4", "http://koas.fi/fi/kohteet/ykkospesa", "http://koas.fi/fi/kohteet/ainola", "http://koas.fi/fi/kohteet/sillanpaa", "http://koas.fi/fi/kohteet/tango", "http://koas.fi/fi/kohteet/humppa", "http://koas.fi/fi/kohteet/ai", "http://koas.fi/fi/kohteet/rantapolku", "http://koas.fi/fi/kohteet/auvilankuja", "http://koas.fi/fi/kohteet/laajavuori", "http://koas.fi/fi/kohteet/taitoniekantie"]
 
     def parse(self, response):
         hxs = HtmlXPathSelector(response)
@@ -36,11 +36,10 @@ class KoasSpider(BaseSpider):
             else:
                 item["tyyppi"] = ''
             osoite_apu = str(osoite.select('text()[normalize-space()]').extract()).split("\'")       
-            item["osoite"] = (osoite_apu[1]).replace("\\n\\t", "")
-            print item["osoite"]
+            item["osoite"] = (osoite_apu[1]).replace("\\n\\t", "").split(',')[0]
             item["linkki"] = response.url
             item["tarjoaja"] = "KOAS"
-            
+            #oma_geocode(osoite[1])
             #item["lat"] = 
             #item["lng"] =            
             items.append(item)

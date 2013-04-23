@@ -4,7 +4,6 @@ from scrapy.http import Request
 from scrapy.spider import BaseSpider
 from scrapy.selector import HtmlXPathSelector
 from scrapers.items import VuokraKohdeItem
-from ftfy import fix_text
 from geocode import oma_geocode
 
 #Spider hakemaan asuntokohteiden tietoa sato.fi sivulta. 
