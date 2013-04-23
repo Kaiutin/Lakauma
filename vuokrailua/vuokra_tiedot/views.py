@@ -13,6 +13,9 @@ import mongo_ajuri
 def index(request):
     return render(request, 'vuokra_tiedot/index.html')
 
+def about(request):
+    return render(request, 'vuokra_tiedot/about.html')
+
 #def get_json(request):
 #    taulu = mongo_ajuri.hae_data()
 #    data = taulu[:]

@@ -66,15 +66,15 @@
                   
     }     
 
-// Deletes all markers from the map by removing references to them
-function removeMarkers () {  
-    setAllMap(null);
-    markers = [];
-}
+    // Deletes all markers from the map by removing references to them
+    function removeMarkers () {  
+        setAllMap(null);
+        markers = [];
+    }
 
-// Sets the map on all markers in the array.
-function setAllMap(map) {
-  for (var i = 0; i < markers.length; i++) {
-    markers[i].setMap(map);
-  }
-}
+    // Sets the map on all markers in the array.
+    function setAllMap(map) {
+      for (var i = 0; i < markers.length; i++) {
+        markers[i].setMap(map);
+      }
+    }

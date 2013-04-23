@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+          "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <style type="text/css">
+      html { height: 50% }
+      body { width: 75%;  height: 100%; margin: ; padding: 60px;}
+      #map-canvas { height: 100% }
+    </style>
+
+    {% load staticfiles %}
+    <!-- Here you can define the scripts and other static files you wish to deploy from /vuokra_tiedot/static/vuokra_tiedot/ --> 
+    <script type="text/javascript" src="{% static 'vuokra_tiedot/jquery-1.9.1.min.js' %}" alt="javascript"></script>  
+
+    <link href="{% static 'vuokra_tiedot/css/bootstrap.css' %}" rel="stylesheet">
+    <link href="{% static 'vuokra_tiedot/css/bootstrap-responsive.css' %}" rel="stylesheet"> 
+    <link href="{% static 'vuokra_tiedot/css/bootstrap.min.css' %}" rel="stylesheet" media="screen">
+  </head>
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="http://127.0.0.1:8000/vuokra_tiedot/?vuokra_min=&vuokra_max=&neliot_min=&neliot_max=#about#">Keksi kiva nimi</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li class="active"><a href="http://127.0.0.1:8000/vuokra_tiedot/?vuokra_min=&vuokra_max=&neliot_min=&neliot_max=#about#">Home</a></li>
+              <li><a href="#contact">Contact</a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+
+      <h1>About</h1>
+      <p>Authors: Samuel Uusi-Mäkelä, Anton Laurila, Jari-Matti Kankaanpää ja Kristiina Manninen</p>
+
+      <p>... is an application to help visualize the locations of rental apartments in Jyväskylä region. The application should present a Google maps map, with different search-matching apartments marked. Clicking a marker will open a small infowindow for that apartment, which contains basic information about the apartment and a link to the original housing agency that owns the apartment.</p>
+
+      <p>For more information,see the project page.</p>
+
+    </div> <!-- /container -->
+  </body>
+</html>

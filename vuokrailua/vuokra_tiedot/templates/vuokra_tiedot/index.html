@@ -20,7 +20,7 @@
     </script>
 	<script type="text/javascript" src="{% static 'vuokra_tiedot/js/form_handler.js' %}">
     </script>
-   <!-- <script type="text/javascript" src="{% static 'vuokra_tiedot/js/bootstrap-slider.js' %}">
+    <!--<script type="text/javascript" src="{% static 'vuokra_tiedot/js/bootstrap-slider.js' %}">
     </script>-->
 
     <link href="{% static 'vuokra_tiedot/css/bootstrap.css' %}" rel="stylesheet">
@@ -38,13 +38,13 @@
             <span class="icon-bar"></span>
           </button>
           <!-- TODO -->
-          <a class="brand" href="#">Keksi projektille kiva nimi</a>
+          <a class="brand" href="#">Keksi kiva nimi</a>
           <div class="nav-collapse collapse">
 
             <ul class="nav">
               <li class="active"><a href="#">Home</a></li>
 
-              <li><a href="#about">About</a></li>
+              <li><a href="http://127.0.0.1:8000/vuokra_tiedot/about#">About</a></li>
               <li><a href="#contact">Contact</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -57,9 +57,9 @@
             <div class="span4">
                 <div class="well sidebar-nav">
                     <ul class="nav nav-list">
-                        <li class="nav-header">Hakuehdot</li>
+                        <li class="nav-header">Hae asuntoja</li>
                         <form name="search_form">
-                              Minimi vuokra: <input type="text" class="span12" id="vuokra_min" name="vuokra_min" data-slider-min="10" data-slider-max="1000" data-slider-step="1" data-slider-value="[250-450]"><br>
+                              Minimi vuokra: <input type="text" class="span12" id="vuokra_min" name="vuokra_min"><br>
                               Maksimi vuokra: <input type="text" class="span12" id="vuokra_max" name="vuokra_max"><br>
                               Minimi neliöt: <input type="text" class="span12" id="neliot_min" name="neliot_min"><br>
                               Maksimi neliöt: <input type="text" class="span12" id="neliot_max" name="neliot_max"><br>
@@ -68,8 +68,8 @@
                               <input type="checkbox" name="tyyppi" id="tyyppi2h" value="2h+k">2h+k<br>
                               <input type="checkbox" name="tyyppi" id="tyyppi3h" value="3h+k">3h+k<br>
                               <input type="checkbox" name="tyyppi" id="tyyppi4h" value="4h+k">4h+k<br> 
-                              <button type="button" onclick="sendSearchData()" id="submitButton" value="Submit"> Hae </button>
-                              <button type="button" onclick="initialize()" id="submitButton" value="Submit"> Tyhjennä hakuehdot </button>
+                              <button type="button" class="span12" onclick="sendSearchData()" id="submitButton" value="Submit"> Hae </button>
+                              <button type="button" class="span12" onclick="initialize()" id="submitButton" value="Submit"> Tyhjennä hakuehdot </button>
                               </form>
 
                         <li class="nav-header">Sidebar</li>
