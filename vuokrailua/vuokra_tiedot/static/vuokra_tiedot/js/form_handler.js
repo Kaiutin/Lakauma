@@ -1,9 +1,9 @@
 function sendSearchData() {
     removeMarkers();
-    var vuokra_min = document.getElementById('vuokra_min').value;
-    var vuokra_max = document.getElementById('vuokra_max').value;
-    var neliot_min = document.getElementById('neliot_min').value;
-    var neliot_max = document.getElementById('neliot_max').value;
+    var vuokra_min = $( "#slider-range-vuokra" ).slider( "values", 0 );
+    var vuokra_max = $( "#slider-range-vuokra" ).slider( "values", 1 );
+    var neliot_min = $( "#slider-range-neliot" ).slider( "values", 0 );
+    var neliot_max = $( "#slider-range-neliot" ).slider( "values", 1 );
 
     if ( document.getElementById('tyyppi1h').checked) {
         var tyyppi1h = document.getElementById('tyyppi1h').value;
