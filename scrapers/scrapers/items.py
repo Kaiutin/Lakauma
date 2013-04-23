@@ -13,3 +13,4 @@ class VuokraKohdeItem(Item):
     lat = Field()
     lng = Field()
     linkki = Field()
+    tarjoaja = Field()
