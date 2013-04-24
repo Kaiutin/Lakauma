@@ -20,9 +20,6 @@ from bs4 import BeautifulSoup
 def runDriver():
     # Create a new instance of the Firefox driver. Could be chrome too.
     driver = webdriver.Firefox()
-
-    # Save data to "ovv_sorsa"
-    tekstiTied = open('ovv_sorsa', 'r+w')
     # go to the OVV home page
     driver.get("http://www.ovv.com")
     # Open the menu that contains cities, and picks Jyväskylä    
@@ -33,10 +30,11 @@ def runDriver():
     driver.find_element_by_xpath('//*[@id="hakuform"]/div[5]/div/div/a').click()
     driver.find_element_by_xpath('//*[@id="hakuform"]/div[5]/div/ul/li/a[@index=4]').click()
 
-    #Klikkaa "Vuokrataan" nappia
+
     driver.find_element_by_xpath('//*[@id="hakuform"]/div[10]/input[1]').click()
     
 
+    tekstiTied = open('ovv_sorsa', 'r+w')
 #    soppa = soup = BeautifulSoup(tekstiTied)
 #    for kohde in soppa.find_all('//div[@class="resultPage"]/div["resultItem"]/div[@class="itemText"]'):
  #       print(kohde)
