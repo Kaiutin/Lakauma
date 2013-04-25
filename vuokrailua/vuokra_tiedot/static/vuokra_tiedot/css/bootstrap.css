@@ -6305,3 +6305,4 @@ button.close {
     overflow: visible !important;
   }
 }
+#map_canvas img {width: none}

@@ -6,7 +6,6 @@ function sendSearchData() {
     var neliot_max = $( "#slider-range-neliot" ).slider( "values", 1 );        
 
     var url = "/vuokra_tiedot/get_json?vuokra_min=" + vuokra_min + "&vuokra_max=" + vuokra_max + "&neliot_min=" + neliot_min + "&neliot_max=" + neliot_max;
-    alert(url);
 
     var request = new XMLHttpRequest();
     request.onreadystatechange = function() {

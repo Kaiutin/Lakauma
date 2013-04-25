@@ -10,7 +10,7 @@
           mapTypeId: google.maps.MapTypeId.ROADMAP       
         };
         
-        map = new google.maps.Map(document.getElementById("#map_canvas"),
+        map = new google.maps.Map(document.getElementById("map_canvas"),
             mapOptions);
           
         var request = new XMLHttpRequest();
@@ -33,7 +33,7 @@
     function attachInfoWindow(marker, map, obj) 
     {
         var content = " ";
-        content = "<h3>" + obj.osoite.toString() + "</h3> <ul> <li>" + obj.vuokra.toString() + " €/kk </li> <li>" + obj.neliot.toString() + " m2 </li> <li>" + obj.tyyppi.toString() + "</li></ul>";
+        content = "<h3>" + obj.osoite.toString() + "</h3> <ul> <li>" + obj.vuokra.toString() + " €/kk </li> <li>" + obj.neliot.toString() + " m2 </li> <li>" + obj.tyyppi.toString() + "</li> <li> <a href=" + obj.linkki.toString() + "> Kohteen tarjoaja </a> </li> </ul>";
      
         google.maps.event.addListener(marker, 'click', function() {
             
