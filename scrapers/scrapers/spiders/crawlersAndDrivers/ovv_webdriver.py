@@ -15,9 +15,10 @@ from selenium.webdriver.support.ui import Select
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support.ui import WebDriverWait # available since 2.4.0
 from selenium.webdriver.support import expected_conditions as EC # available since 2.26.0
-from bs4 import BeautifulSoup
+from ovv_parser import parse_ovv
+import time
 
-def runDriver():
+def run_driver():
     # Create a new instance of the Firefox driver. Could be chrome too.
     driver = webdriver.Firefox()
     # go to the OVV home page
@@ -33,17 +34,16 @@ def runDriver():
 
     driver.find_element_by_xpath('//*[@id="hakuform"]/div[10]/input[1]').click()
     
-
-    tekstiTied = open('ovv_sorsa', 'r+w')
-#    soppa = soup = BeautifulSoup(tekstiTied)
-#    for kohde in soppa.find_all('//div[@class="resultPage"]/div["resultItem"]/div[@class="itemText"]'):
- #       print(kohde)
+    time.sleep(10)
+    tekstiTied = open('ovv_json.json', 'r+w')
+    elem = driver.find_element_by_xpath("//*")
+    source_code = elem.get_attribute("outerHTML")
+    
+    tekstiTied.write(parse_ovv(source_code))
+    tekstiTied.close()
+    driver.quit()
 
 if __name__ == "__main__":
-    runDriver()
+    run_driver()
 
 
-#//div[@class="resultPage"]/div[@class="resultItem"]/div[@class="itemText"]
-#driver.find_element_by_xpath('//li[(((count(preceding-sibling::*) + 1) = 5) and parent::*)]//a').click()
-#//li[(((count(preceding-sibling::*) + 1) = 5) and parent::*)]//a
-#//div[@class="jqTrasformSelectWrapper"]//*[@index="2"]
