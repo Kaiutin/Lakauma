@@ -15,10 +15,10 @@ import time
 class ScrapersPipeline(object):
     def process_item(self, item, spider):
         if(isinstance(item, VuokraKohdeItem)):
-            item['osoite'] = str(item['osoite'].replace("\\xe4", u'\xe4').encode('utf-8'))
-            place, (lat, lng) = oma_geocode(item['osoite'] + "Jyväskylä")
-            item["lat"] = lat
-            item["lng"] = lng
+			item['osoite'] = str(item['osoite']).replace("\\xe4", u'\xe4').encode('utf-8')
+            #place, (lat, lng) = oma_geocode(item['osoite'] + "Jyväskylä")
+            #item["lat"] = lat
+            #item["lng"] = lng
         return item
 
 def oma_geocode(address):
