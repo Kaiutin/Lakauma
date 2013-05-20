@@ -1,0 +1,392 @@
+[
+    {
+        "vuokra": "370", 
+        "osoite": "Piilukko 3, KORTEM\u00c4KI, 40630 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "20", 
+        "lat": 62.2488033, 
+        "lng": 25.6896695, 
+        "tyyppi": "1h+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65619"
+    }, 
+    {
+        "vuokra": "435", 
+        "osoite": "Wivi L\u00f6nnin katu 7 A, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "21", 
+        "lat": 62.23482329999999, 
+        "lng": 25.734083, 
+        "tyyppi": "1h+kk+kh+vh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66489"
+    }, 
+    {
+        "vuokra": "430", 
+        "osoite": "Keskussairaalantie 7 A , MATTILANPELTO, 40600 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "24", 
+        "lat": 62.2337906, 
+        "lng": 25.7265719, 
+        "tyyppi": "1h+alkovi+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66590"
+    }, 
+    {
+        "vuokra": "470", 
+        "osoite": "Keskussairaalantie 7 , MATTILANPELTO, 40600 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "24", 
+        "lat": 62.2337906, 
+        "lng": 25.7265719, 
+        "tyyppi": "1h+kk+alkovi+kh+s", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66901"
+    }, 
+    {
+        "vuokra": "450", 
+        "osoite": "Viitaniementie 8 A, VIITANIEMI, 40700 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "27", 
+        "lat": 62.2470807, 
+        "lng": 25.7297245, 
+        "tyyppi": "1h+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66750"
+    }, 
+    {
+        "vuokra": "440", 
+        "osoite": "Saihokatu 5 F, K\u00d6HNI\u00d6, 40630 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "28", 
+        "lat": 62.2410286, 
+        "lng": 25.6803883, 
+        "tyyppi": "1h+k+kh+rp", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66950"
+    }, 
+    {
+        "vuokra": "450", 
+        "osoite": "Cygnaeuksenkatu 12 B , KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "28", 
+        "lat": 62.2398257, 
+        "lng": 25.7394328, 
+        "tyyppi": "1h+kk+kh+vh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66509"
+    }, 
+    {
+        "vuokra": "409", 
+        "osoite": "Kulottajantie 6 E, KANGASLAMPI, 40340 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "32.5", 
+        "lat": 62.275558, 
+        "lng": 25.8142526, 
+        "tyyppi": "1h+kk+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66876"
+    }, 
+    {
+        "vuokra": "350", 
+        "osoite": "Linnantie 6 B , VAAJAKOSKI, 40800 Vaajakoski", 
+        "tarjoaja": "OVV", 
+        "neliot": "38", 
+        "lat": 62.2521127, 
+        "lng": 25.8777484, 
+        "tyyppi": "1h+kk+kh+s+piha", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66784"
+    }, 
+    {
+        "vuokra": "600", 
+        "osoite": "Palanderinkatu 13 A, RASINRINNE, 40320 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "38", 
+        "lat": 62.2681067, 
+        "lng": 25.7866698, 
+        "tyyppi": "1h+tk+kh+vh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66521"
+    }, 
+    {
+        "vuokra": "600", 
+        "osoite": "Palanderinkatu 13 A, RASINRINNE, 40320 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "38", 
+        "lat": 62.2681067, 
+        "lng": 25.7866698, 
+        "tyyppi": "1h+tk+kh+vh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66522"
+    }, 
+    {
+        "vuokra": "500", 
+        "osoite": "Kauppakatu 13 A, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "33", 
+        "lat": 62.239936, 
+        "lng": 25.7416848, 
+        "tyyppi": "2h+ks+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66795"
+    }, 
+    {
+        "vuokra": "560", 
+        "osoite": "V\u00e4likatu 6 A, M\u00c4KI-MATTI, 40700 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "38", 
+        "lat": 62.2388005, 
+        "lng": 25.7261683, 
+        "tyyppi": "2h+kk+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66791"
+    }, 
+    {
+        "vuokra": "560", 
+        "osoite": "Vaasankatu 8, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "38.5", 
+        "lat": 62.23780009999999, 
+        "lng": 25.7393011, 
+        "tyyppi": "2h+k+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65576"
+    }, 
+    {
+        "vuokra": "535", 
+        "osoite": "V\u00e4in\u00f6l\u00e4ntie 29, JYSK\u00c4, 40420 Jysk\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "40", 
+        "lat": 62.2348115, 
+        "lng": 25.8177724, 
+        "tyyppi": "2h+kk+ph+s", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66563"
+    }, 
+    {
+        "vuokra": "580", 
+        "osoite": "Kiljanderinkatu 3 A, MATTILANPELTO, 40600 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "40", 
+        "lat": 62.2331197, 
+        "lng": 25.7251048, 
+        "tyyppi": "2h+kk+kh+vh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66582"
+    }, 
+    {
+        "vuokra": "580", 
+        "osoite": "Kiljanderinkatu 3 A, MATTILANPELTO, 40600 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "40", 
+        "lat": 62.2331197, 
+        "lng": 25.7251048, 
+        "tyyppi": "2h+alkovi+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66965"
+    }, 
+    {
+        "vuokra": "520", 
+        "osoite": "Sienitie 6 B, KELTINM\u00c4KI, 40640 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "43", 
+        "lat": 62.23072430000001, 
+        "lng": 25.679825, 
+        "tyyppi": "2h+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65910"
+    }, 
+    {
+        "vuokra": "570", 
+        "osoite": "Em\u00e4nn\u00e4ntie 3-5 H, KORTEPOHJA, 40740 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "46", 
+        "lat": 62.24707129999999, 
+        "lng": 25.7085312, 
+        "tyyppi": "2h+kk+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66730"
+    }, 
+    {
+        "vuokra": "540", 
+        "osoite": "Haaparinteentie 10, VAAJAKOSKI, 40800 Vaajakoski", 
+        "tarjoaja": "OVV", 
+        "neliot": "47", 
+        "lat": 62.2506623, 
+        "lng": 25.8541238, 
+        "tyyppi": "2h+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66692"
+    }, 
+    {
+        "vuokra": "590", 
+        "osoite": "Saarikonkatu 2 A, KUOKKALA, 40520 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "47.5", 
+        "lat": 62.22760359999999, 
+        "lng": 25.7914625, 
+        "tyyppi": "2h+k+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66263"
+    }, 
+    {
+        "vuokra": "590", 
+        "osoite": "Saarikonkatu 2 A, KUOKKALA, 40520 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "47.5", 
+        "lat": 62.22760359999999, 
+        "lng": 25.7914625, 
+        "tyyppi": "2h+k+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66264"
+    }, 
+    {
+        "vuokra": "500", 
+        "osoite": "Muurainkuja 2 A, KANGASLAMPI, 40340 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "48.5", 
+        "lat": 62.27536240000001, 
+        "lng": 25.8029407, 
+        "tyyppi": "2h+k+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=62940"
+    }, 
+    {
+        "vuokra": "640", 
+        "osoite": "Vaasankatu 5 A, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "50", 
+        "lat": 62.2364274, 
+        "lng": 25.7418448, 
+        "tyyppi": "2h+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66796"
+    }, 
+    {
+        "vuokra": "556", 
+        "osoite": "Laajavuorentie 3 A, LAAJAVUORI, 40740 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "51", 
+        "lat": 62.2511429, 
+        "lng": 25.701343, 
+        "tyyppi": "2h+k+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66107"
+    }, 
+    {
+        "vuokra": "610", 
+        "osoite": "Laajavuorentie 7 A, LAAJAVUORI, 40740 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "51", 
+        "lat": 62.2527261, 
+        "lng": 25.7006632, 
+        "tyyppi": "2h+k+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66555"
+    }, 
+    {
+        "vuokra": "750", 
+        "osoite": "Vapaudenkatu 43 B, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "51", 
+        "lat": 62.2389847, 
+        "lng": 25.7440203, 
+        "tyyppi": "2h+k+kh+vh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65922"
+    }, 
+    {
+        "vuokra": "630", 
+        "osoite": "Vapaudenkatu 43 B, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "52", 
+        "lat": 62.2389847, 
+        "lng": 25.7440203, 
+        "tyyppi": "2h+k+kh+vh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66762"
+    }, 
+    {
+        "vuokra": "610", 
+        "osoite": "Lohikoskentie 24 B, LOHIKOSKI, 40320 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "57", 
+        "lat": 62.25915879999999, 
+        "lng": 25.7593019, 
+        "tyyppi": "2h+k+kh+lp", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66818"
+    }, 
+    {
+        "vuokra": "690", 
+        "osoite": "Vapaudenkatu 20 A, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "57", 
+        "lat": 62.2377687, 
+        "lng": 25.7420569, 
+        "tyyppi": "2h+k+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66579"
+    }, 
+    {
+        "vuokra": "750", 
+        "osoite": "Pursipolku 2-4, JYSK\u00c4, 40420 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "70", 
+        "lat": 62.2341585, 
+        "lng": 25.838171, 
+        "tyyppi": "2h+k+wc+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66754"
+    }, 
+    {
+        "vuokra": "850", 
+        "osoite": "Tervalankatu 4 A, KELJO, 40500 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "64", 
+        "lat": 62.2160218, 
+        "lng": 25.7165525, 
+        "tyyppi": "3h+k+kh+s+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66781"
+    }, 
+    {
+        "vuokra": "600", 
+        "osoite": "Pursipolku 2-4, JYSK\u00c4, 40420 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "70", 
+        "lat": 62.2341585, 
+        "lng": 25.838171, 
+        "tyyppi": "3h+k+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=63377"
+    }, 
+    {
+        "vuokra": "850", 
+        "osoite": "Minna Canthin katu 18 A, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "73", 
+        "lat": 62.2371867, 
+        "lng": 25.7386831, 
+        "tyyppi": "3h+k+kh+vh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65864"
+    }, 
+    {
+        "vuokra": "900", 
+        "osoite": "Egyptintie, POHJASLAHTI, VIRRAT, 42850 Muu", 
+        "tarjoaja": "OVV", 
+        "neliot": "80", 
+        "lat": 62.244747, 
+        "lng": 25.7472184, 
+        "tyyppi": "KES\u00c4M\u00d6KKI", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=57753"
+    }, 
+    {
+        "vuokra": "1000", 
+        "osoite": "Pursipolku 2-4, JYSK\u00c4, 40420 Jysk\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "100", 
+        "lat": 62.2341585, 
+        "lng": 25.838171, 
+        "tyyppi": "3-4h+k+kh+s+wc+terassi", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=63378"
+    }, 
+    {
+        "vuokra": "300", 
+        "osoite": "Sep\u00e4nkatu 16 C, NISULA, 40720 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "9.5", 
+        "lat": 62.2495547, 
+        "lng": 25.7366484, 
+        "tyyppi": "HUONE NELI\u00d6ST\u00c4", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=62966"
+    }, 
+    {
+        "vuokra": "300", 
+        "osoite": "Saarikonkatu 2 A, KUOKKALAN PELTO, 40520 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "12", 
+        "lat": 62.22760359999999, 
+        "lng": 25.7914625, 
+        "tyyppi": "HUONE KAKSIOSTA (2h+k+kh)", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66265"
+    }, 
+    {
+        "vuokra": "65", 
+        "osoite": "Kilpisenkatu 18, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "tarjoaja": "OVV", 
+        "neliot": "12.5", 
+        "lat": 62.1685827, 
+        "lng": 25.3146262, 
+        "tyyppi": "AUTOHALLIPAIKKA", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65769"
+    }
+]

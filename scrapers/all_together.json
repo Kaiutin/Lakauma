@@ -1,0 +1,1722 @@
+[
+    {
+        "vuokra": "715", 
+        "osoite": "Wilhelm Schildtin katu 12 ", 
+        "neliot": "53.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2490964, 
+        "lng": 25.7194389, 
+        "tyyppi": "2h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11178"
+    }, 
+    {
+        "vuokra": "658", 
+        "osoite": "Wilhelm Schildtin katu 12 ", 
+        "neliot": "46", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2490964, 
+        "lng": 25.7194389, 
+        "tyyppi": "2h+kk+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11198"
+    }, 
+    {
+        "vuokra": "709", 
+        "osoite": "Wilhelm Schildtin katu 10 ", 
+        "neliot": "58", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2484908, 
+        "lng": 25.7195949, 
+        "tyyppi": "2h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11393"
+    }, 
+    {
+        "vuokra": "856", 
+        "osoite": "Wilhelm Schildtin katu 10 ", 
+        "neliot": "76.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2484908, 
+        "lng": 25.7195949, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11396"
+    }, 
+    {
+        "vuokra": "582", 
+        "osoite": "Wilhelm Schildtin katu 13 ", 
+        "neliot": "40", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2499263, 
+        "lng": 25.7184151, 
+        "tyyppi": "2h+kk+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11431"
+    }, 
+    {
+        "vuokra": "877", 
+        "osoite": "Wilhelm Schildtin katu 13 ", 
+        "neliot": "73", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2499263, 
+        "lng": 25.7184151, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11432"
+    }, 
+    {
+        "vuokra": "875", 
+        "osoite": "Wilhelm Schildtin katu 18 ", 
+        "neliot": "72", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2502959, 
+        "lng": 25.7185156, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11512"
+    }, 
+    {
+        "vuokra": "593", 
+        "osoite": "Wilhelm Schildtin katu 18 ", 
+        "neliot": "38", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2502959, 
+        "lng": 25.7185156, 
+        "tyyppi": "1h+kk+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11518"
+    }, 
+    {
+        "vuokra": "682", 
+        "osoite": "Wilhelm Schildtin katu 18 ", 
+        "neliot": "54", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2502959, 
+        "lng": 25.7185156, 
+        "tyyppi": "2h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11530"
+    }, 
+    {
+        "vuokra": "713", 
+        "osoite": "Wilhelm Schildtin katu 18 ", 
+        "neliot": "54", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2502959, 
+        "lng": 25.7185156, 
+        "tyyppi": "2h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11535"
+    }, 
+    {
+        "vuokra": "861", 
+        "osoite": "Wilhelm Schildtin katu 18 ", 
+        "neliot": "71.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2502959, 
+        "lng": 25.7185156, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11540"
+    }, 
+    {
+        "vuokra": "693", 
+        "osoite": "Yliopistonkatu 18 ", 
+        "neliot": "49.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2414012, 
+        "lng": 25.7409585, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=20780"
+    }, 
+    {
+        "vuokra": "796", 
+        "osoite": "Rautpohjankatu 5 ", 
+        "neliot": "64", 
+        "tarjoaja": "SATO", 
+        "lat": 62.23781039999999, 
+        "lng": 25.7205621, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14507"
+    }, 
+    {
+        "vuokra": "895", 
+        "osoite": "Rautpohjankatu 9 ", 
+        "neliot": "64", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2382764, 
+        "lng": 25.7214659, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14531"
+    }, 
+    {
+        "vuokra": "539", 
+        "osoite": "Rautpohjankatu 11 ", 
+        "neliot": "22", 
+        "tarjoaja": "SATO", 
+        "lat": 62.23845859999999, 
+        "lng": 25.7218068, 
+        "tyyppi": "1h+kk", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14551"
+    }, 
+    {
+        "vuokra": "565", 
+        "osoite": "Rautpohjankatu 11 ", 
+        "neliot": "45", 
+        "tarjoaja": "SATO", 
+        "lat": 62.23845859999999, 
+        "lng": 25.7218068, 
+        "tyyppi": "2h+kk", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14565"
+    }, 
+    {
+        "vuokra": "653", 
+        "osoite": "Rautpohjankatu 11 ", 
+        "neliot": "45", 
+        "tarjoaja": "SATO", 
+        "lat": 62.23845859999999, 
+        "lng": 25.7218068, 
+        "tyyppi": "2h+kk", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14568"
+    }, 
+    {
+        "vuokra": "877", 
+        "osoite": "Schaumanin Puistotie 6 ", 
+        "neliot": "74.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2426544, 
+        "lng": 25.7615701, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=6113"
+    }, 
+    {
+        "vuokra": "845", 
+        "osoite": "Schaumanin Puistotie 6 ", 
+        "neliot": "74", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2426544, 
+        "lng": 25.7615701, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=6136"
+    }, 
+    {
+        "vuokra": "799", 
+        "osoite": "Suurusp\u00e4\u00e4ntie 3 ", 
+        "neliot": "72", 
+        "tarjoaja": "SATO", 
+        "lat": 62.23207230000001, 
+        "lng": 25.7696069, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=6244"
+    }, 
+    {
+        "vuokra": "621", 
+        "osoite": "Suurusp\u00e4\u00e4ntie 3 ", 
+        "neliot": "47", 
+        "tarjoaja": "SATO", 
+        "lat": 62.23207230000001, 
+        "lng": 25.7696069, 
+        "tyyppi": "2h+kk+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=6254"
+    }, 
+    {
+        "vuokra": "682", 
+        "osoite": "Suurusp\u00e4\u00e4ntie 7 ", 
+        "neliot": "50.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.232836, 
+        "lng": 25.7691949, 
+        "tyyppi": "2h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=17456"
+    }, 
+    {
+        "vuokra": "857", 
+        "osoite": "Suurusp\u00e4\u00e4ntie 7 ", 
+        "neliot": "74", 
+        "tarjoaja": "SATO", 
+        "lat": 62.232836, 
+        "lng": 25.7691949, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=17480"
+    }, 
+    {
+        "vuokra": "803", 
+        "osoite": "Suvantotie 1 ", 
+        "neliot": "65", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2558902, 
+        "lng": 25.7496282, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=5767"
+    }, 
+    {
+        "vuokra": "705", 
+        "osoite": "Suvantotie 1 ", 
+        "neliot": "56", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2558902, 
+        "lng": 25.7496282, 
+        "tyyppi": "2h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=5769"
+    }, 
+    {
+        "vuokra": "767", 
+        "osoite": "Syrj\u00e4l\u00e4nkatu 4 ", 
+        "neliot": "58", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2382227, 
+        "lng": 25.7184607, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14369"
+    }, 
+    {
+        "vuokra": "763", 
+        "osoite": "Syrj\u00e4l\u00e4nkatu 4 ", 
+        "neliot": "58", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2382227, 
+        "lng": 25.7184607, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14374"
+    }, 
+    {
+        "vuokra": "739", 
+        "osoite": "Syrj\u00e4l\u00e4nkatu 6 ", 
+        "neliot": "58", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2384412, 
+        "lng": 25.7188855, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14381"
+    }, 
+    {
+        "vuokra": "768", 
+        "osoite": "Syrj\u00e4l\u00e4nkatu 6 ", 
+        "neliot": "58", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2384412, 
+        "lng": 25.7188855, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14382"
+    }, 
+    {
+        "vuokra": "516", 
+        "osoite": "Syrj\u00e4l\u00e4nkatu 10 ", 
+        "neliot": "24.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2388976, 
+        "lng": 25.7197729, 
+        "tyyppi": "1h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14418"
+    }, 
+    {
+        "vuokra": "551", 
+        "osoite": "Syrj\u00e4l\u00e4nkatu 11 ", 
+        "neliot": "58", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2387934, 
+        "lng": 25.7190817, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14443"
+    }, 
+    {
+        "vuokra": "624", 
+        "osoite": "Syrj\u00e4l\u00e4nkatu 12 ", 
+        "neliot": "43.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2391896, 
+        "lng": 25.7203292, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14454"
+    }, 
+    {
+        "vuokra": "614", 
+        "osoite": "Syrj\u00e4l\u00e4nkatu 12 ", 
+        "neliot": "43.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2391896, 
+        "lng": 25.7203292, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14460"
+    }, 
+    {
+        "vuokra": "557", 
+        "osoite": "Syrj\u00e4l\u00e4nkatu 12 ", 
+        "neliot": "24.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2391896, 
+        "lng": 25.7203292, 
+        "tyyppi": "1h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14462"
+    }, 
+    {
+        "vuokra": "817", 
+        "osoite": "Syrj\u00e4l\u00e4nkatu 2 ", 
+        "neliot": "84", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2388058, 
+        "lng": 25.7191108, 
+        "tyyppi": "4h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=52768"
+    }, 
+    {
+        "vuokra": "868", 
+        "osoite": "Taitoniekantie 4 ", 
+        "neliot": "74", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2472629, 
+        "lng": 25.7111408, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=6042"
+    }, 
+    {
+        "vuokra": "669", 
+        "osoite": "Vaneritori 3 ", 
+        "neliot": "52", 
+        "tarjoaja": "SATO", 
+        "lat": 62.24109229999999, 
+        "lng": 25.7630284, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11678"
+    }, 
+    {
+        "vuokra": "849", 
+        "osoite": "Vaneritori 3 ", 
+        "neliot": "70.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.24109229999999, 
+        "lng": 25.7630284, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11687"
+    }, 
+    {
+        "vuokra": "716", 
+        "osoite": "Vaneritori 3 ", 
+        "neliot": "46.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.24109229999999, 
+        "lng": 25.7630284, 
+        "tyyppi": "2h+kk", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11698"
+    }, 
+    {
+        "vuokra": "825", 
+        "osoite": "Vaneritori 4 ", 
+        "neliot": "57", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2409173, 
+        "lng": 25.7629438, 
+        "tyyppi": "2h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=26392"
+    }, 
+    {
+        "vuokra": "808", 
+        "osoite": "Wilhelm Schildtin katu 16 ", 
+        "neliot": "72", 
+        "tarjoaja": "SATO", 
+        "lat": 62.25001140000001, 
+        "lng": 25.718754, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=5919"
+    }, 
+    {
+        "vuokra": "890", 
+        "osoite": "Wilhelm Schildtin katu 16 ", 
+        "neliot": "71.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.25001140000001, 
+        "lng": 25.718754, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=5951"
+    }, 
+    {
+        "vuokra": "617", 
+        "osoite": "Linnantie 12 ", 
+        "neliot": "59", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2538117, 
+        "lng": 25.8784085, 
+        "tyyppi": "2h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=5386"
+    }, 
+    {
+        "vuokra": "894", 
+        "osoite": "Ainolankaari 1 ", 
+        "neliot": "76", 
+        "tarjoaja": "SATO", 
+        "lat": 62.229719, 
+        "lng": 25.7597279, 
+        "tyyppi": "3h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=5915"
+    }, 
+    {
+        "vuokra": "692", 
+        "osoite": "Lehtorannantie 5 ", 
+        "neliot": "54", 
+        "tarjoaja": "SATO", 
+        "lat": 62.23110759999999, 
+        "lng": 25.7608666, 
+        "tyyppi": "2h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=5984"
+    }, 
+    {
+        "vuokra": "789", 
+        "osoite": "Ailakinkatu 18 ", 
+        "neliot": "59", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2485404, 
+        "lng": 25.7571971, 
+        "tyyppi": "2h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=10395"
+    }, 
+    {
+        "vuokra": "699", 
+        "osoite": "Ailakinkatu 18 ", 
+        "neliot": "45.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2485404, 
+        "lng": 25.7571971, 
+        "tyyppi": "2h+kk+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=10396"
+    }, 
+    {
+        "vuokra": "682", 
+        "osoite": "Kiramo 3 ", 
+        "neliot": "48", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2426562, 
+        "lng": 25.7628315, 
+        "tyyppi": "2h+kk+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11368"
+    }, 
+    {
+        "vuokra": "699", 
+        "osoite": "Kiramo 3 ", 
+        "neliot": "48", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2426562, 
+        "lng": 25.7628315, 
+        "tyyppi": "2h+kk+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11373"
+    }, 
+    {
+        "vuokra": "679", 
+        "osoite": "Kiramo 3 ", 
+        "neliot": "45", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2426562, 
+        "lng": 25.7628315, 
+        "tyyppi": "2h+kk+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=11374"
+    }, 
+    {
+        "vuokra": "735", 
+        "osoite": "Haapatie 6 ", 
+        "neliot": "93", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2454428, 
+        "lng": 25.8681904, 
+        "tyyppi": "4h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=12487"
+    }, 
+    {
+        "vuokra": "689", 
+        "osoite": "Laajavuorentie 11 ", 
+        "neliot": "70", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2539415, 
+        "lng": 25.6991579, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=12772"
+    }, 
+    {
+        "vuokra": "646", 
+        "osoite": "Laajavuorentie 11 ", 
+        "neliot": "70", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2539415, 
+        "lng": 25.6991579, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=12781"
+    }, 
+    {
+        "vuokra": "388", 
+        "osoite": "Laajavuorentie 11 ", 
+        "neliot": "29", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2539415, 
+        "lng": 25.6991579, 
+        "tyyppi": "1h+kk", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=12798"
+    }, 
+    {
+        "vuokra": "596", 
+        "osoite": "Laajavuorentie 11 ", 
+        "neliot": "56", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2539415, 
+        "lng": 25.6991579, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=12804"
+    }, 
+    {
+        "vuokra": "583", 
+        "osoite": "Keltinm\u00e4entie 27 ", 
+        "neliot": "50", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2340615, 
+        "lng": 25.6751715, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=12850"
+    }, 
+    {
+        "vuokra": "546", 
+        "osoite": "Keltinm\u00e4entie 27 ", 
+        "neliot": "41", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2340615, 
+        "lng": 25.6751715, 
+        "tyyppi": "2h+kk", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=12886"
+    }, 
+    {
+        "vuokra": "562", 
+        "osoite": "Keltinm\u00e4entie 27 ", 
+        "neliot": "46", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2340615, 
+        "lng": 25.6751715, 
+        "tyyppi": "2h+kk", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=12887"
+    }, 
+    {
+        "vuokra": "1049", 
+        "osoite": "Ailakinkatu 13 ", 
+        "neliot": "92.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2491856, 
+        "lng": 25.7585013, 
+        "tyyppi": "4h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=7682"
+    }, 
+    {
+        "vuokra": "733", 
+        "osoite": "Ailakinkatu 13 ", 
+        "neliot": "56", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2491856, 
+        "lng": 25.7585013, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=7700"
+    }, 
+    {
+        "vuokra": "1108", 
+        "osoite": "Ailakinkatu 13 ", 
+        "neliot": "88.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2491856, 
+        "lng": 25.7585013, 
+        "tyyppi": "4h+k+s", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=7726"
+    }, 
+    {
+        "vuokra": "460", 
+        "osoite": "Karsikkotie 3 ", 
+        "neliot": "34", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2662223, 
+        "lng": 25.7984969, 
+        "tyyppi": "1h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=15198"
+    }, 
+    {
+        "vuokra": "665", 
+        "osoite": "Karsikkotie 3 ", 
+        "neliot": "74.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2662223, 
+        "lng": 25.7984969, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=15201"
+    }, 
+    {
+        "vuokra": "395", 
+        "osoite": "Karsikkotie 5 ", 
+        "neliot": "34", 
+        "tarjoaja": "SATO", 
+        "lat": 62.26685939999999, 
+        "lng": 25.798789, 
+        "tyyppi": "1h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=15255"
+    }, 
+    {
+        "vuokra": "608", 
+        "osoite": "Karsikkotie 5 ", 
+        "neliot": "69", 
+        "tarjoaja": "SATO", 
+        "lat": 62.26685939999999, 
+        "lng": 25.798789, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=15267"
+    }, 
+    {
+        "vuokra": "629", 
+        "osoite": "Karsikkotie 5 ", 
+        "neliot": "74.5", 
+        "tarjoaja": "SATO", 
+        "lat": 62.26685939999999, 
+        "lng": 25.798789, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=15274"
+    }, 
+    {
+        "vuokra": "435", 
+        "osoite": "Karsikkotie 5 ", 
+        "neliot": "32", 
+        "tarjoaja": "SATO", 
+        "lat": 62.26685939999999, 
+        "lng": 25.798789, 
+        "tyyppi": "1h+kk", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=15318"
+    }, 
+    {
+        "vuokra": "682", 
+        "osoite": "Keskustie 17 ", 
+        "neliot": "31", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2410298, 
+        "lng": 25.7418102, 
+        "tyyppi": "1h+kk", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=20817"
+    }, 
+    {
+        "vuokra": "685", 
+        "osoite": "Keskustie 17 ", 
+        "neliot": "42", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2410298, 
+        "lng": 25.7418102, 
+        "tyyppi": "2h+kk", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=20838"
+    }, 
+    {
+        "vuokra": "851", 
+        "osoite": "Rautpohjankatu 3 ", 
+        "neliot": "64", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2375965, 
+        "lng": 25.72013, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14493"
+    }, 
+    {
+        "vuokra": "893", 
+        "osoite": "Rautpohjankatu 3 ", 
+        "neliot": "64", 
+        "tarjoaja": "SATO", 
+        "lat": 62.2375965, 
+        "lng": 25.72013, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://sato.fi/cps/sato/hs.xsl/-/html/huoneisto.htm?huoneisto=14497"
+    }, 
+    {
+        "vuokra": "551", 
+        "neliot": "40.5", 
+        "osoite": "Vapaudenkatu 66", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2446446, 
+        "lng": 25.7561561, 
+        "tyyppi": "2h+kk", 
+        "linkki": "http://koas.fi/fi/kohteet/veturi"
+    }, 
+    {
+        "vuokra": "596", 
+        "neliot": "46", 
+        "osoite": "Vapaudenkatu 66", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2446446, 
+        "lng": 25.7561561, 
+        "tyyppi": "2h+kk", 
+        "linkki": "http://koas.fi/fi/kohteet/veturi"
+    }, 
+    {
+        "vuokra": "371", 
+        "neliot": "53", 
+        "osoite": "Vapaudenkatu 66", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2446446, 
+        "lng": 25.7561561, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/veturi"
+    }, 
+    {
+        "vuokra": "380", 
+        "neliot": "26.5", 
+        "osoite": "Helkantie 2", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2228254, 
+        "lng": 25.7276957, 
+        "tyyppi": "1h+kk", 
+        "linkki": "http://koas.fi/fi/kohteet/jyvanen"
+    }, 
+    {
+        "vuokra": "233", 
+        "neliot": "41.5", 
+        "osoite": "Kekkolantie 31", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2205977, 
+        "lng": 25.7675646, 
+        "tyyppi": "2h+kk", 
+        "linkki": "http://koas.fi/fi/kohteet/etela-kekkola"
+    }, 
+    {
+        "vuokra": "425", 
+        "neliot": "38", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "1h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "380", 
+        "neliot": "26.6", 
+        "osoite": "Helkantie 2", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2228254, 
+        "lng": 25.7276957, 
+        "tyyppi": "1h+kk", 
+        "linkki": "http://koas.fi/fi/kohteet/jyvanen"
+    }, 
+    {
+        "vuokra": "235", 
+        "neliot": "43.5", 
+        "osoite": "Kekkolantie 31", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2205977, 
+        "lng": 25.7675646, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/etela-kekkola"
+    }, 
+    {
+        "vuokra": "445", 
+        "neliot": "40", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "1h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "395", 
+        "neliot": "27.5", 
+        "osoite": "Helkantie 2", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2228254, 
+        "lng": 25.7276957, 
+        "tyyppi": "1h+kk", 
+        "linkki": "http://koas.fi/fi/kohteet/jyvanen"
+    }, 
+    {
+        "vuokra": "267", 
+        "neliot": "49.5", 
+        "osoite": "Kekkolantie 31", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2205977, 
+        "lng": 25.7675646, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/etela-kekkola"
+    }, 
+    {
+        "vuokra": "461", 
+        "neliot": "43", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "1h + tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "330", 
+        "neliot": "", 
+        "osoite": "Helkantie 2", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2228254, 
+        "lng": 25.7276957, 
+        "tyyppi": "", 
+        "linkki": "http://koas.fi/fi/kohteet/jyvanen"
+    }, 
+    {
+        "vuokra": "270", 
+        "neliot": "49", 
+        "osoite": "Kekkolantie 31", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2205977, 
+        "lng": 25.7675646, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/etela-kekkola"
+    }, 
+    {
+        "vuokra": "452", 
+        "neliot": "44", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "1h + tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "340", 
+        "neliot": "", 
+        "osoite": "Helkantie 2", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2228254, 
+        "lng": 25.7276957, 
+        "tyyppi": "", 
+        "linkki": "http://koas.fi/fi/kohteet/jyvanen"
+    }, 
+    {
+        "vuokra": "248", 
+        "neliot": "51", 
+        "osoite": "Kekkolantie 31", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2205977, 
+        "lng": 25.7675646, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/etela-kekkola"
+    }, 
+    {
+        "vuokra": "480", 
+        "neliot": "43", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "1h+tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "219", 
+        "neliot": "62.5", 
+        "osoite": "Kekkolantie 31", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2205977, 
+        "lng": 25.7675646, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/etela-kekkola"
+    }, 
+    {
+        "vuokra": "480", 
+        "neliot": "43", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "1h + tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "232", 
+        "neliot": "64.5", 
+        "osoite": "Kekkolantie 31", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2205977, 
+        "lng": 25.7675646, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/etela-kekkola"
+    }, 
+    {
+        "vuokra": "480", 
+        "neliot": "43", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "1h + tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "605", 
+        "neliot": "62", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "2h+tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "595", 
+        "neliot": "61", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "605", 
+        "neliot": "62", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "2h+tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "615", 
+        "neliot": "63", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "2h+tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "615", 
+        "neliot": "63", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "2h+tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "615", 
+        "neliot": "63", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "2 makuuhuonetta + tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "766", 
+        "neliot": "83", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "3 makuuhuonetta + tupak", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "235", 
+        "neliot": "", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "2h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "205", 
+        "neliot": "", 
+        "osoite": "Helokantie 1-5", 
+        "tarjoaja": "KOAS", 
+        "lat": 62.2294885, 
+        "lng": 25.6821581, 
+        "tyyppi": "3h+k", 
+        "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"
+    }, 
+    {
+        "vuokra": "328", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,0", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/1/16/Yksioe-30m2/"
+    }, 
+    {
+        "vuokra": "328", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,0", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/126/16/Talo-F-22-0-m-Fc-217-717/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/29/16/Talo-F-22-5-m/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/119/16/Talo-F-22-5-m-Fa-204-704/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/120/16/Talo-F-22-5-m-Fa-206-706/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/121/16/Talo-F-22-5-m-Fb-211-711/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/122/16/Talo-F-22-5-m-Fb-212-712/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/123/16/Talo-F-22-5-m-Fb-213-713/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/127/16/Talo-F-22-5-m-Fc-218-718/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/129/16/Talo-F-22-5-m-Fc-220-720/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "22,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/130/16/Talo-F-22-5-m-Fc-221-721/"
+    }, 
+    {
+        "vuokra": "350", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "23,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/30/16/Talo-F-23-5-m/"
+    }, 
+    {
+        "vuokra": "350", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "23,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/124/16/Talo-F-23-5-m-Fc-215-715/"
+    }, 
+    {
+        "vuokra": "350", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "23,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/128/16/Talo-F-23-5-m-Fc-219-719/"
+    }, 
+    {
+        "vuokra": "365", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "24,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/31/16/Talo-F-24-5-m/"
+    }, 
+    {
+        "vuokra": "365", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "24,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/125/16/Talo-F-24-5-m-Fc-216-716/"
+    }, 
+    {
+        "vuokra": "365", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "24,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/132/16/Talo-F-24-5-m-Fc-223-723/"
+    }, 
+    {
+        "vuokra": "367", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "26", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Soluhuone asunnosta 2h+kk", 
+        "linkki": "http://www.kortepohja.fi/Products/40/16/F-talo-52-0-m-solu/"
+    }, 
+    {
+        "vuokra": "415", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "28,0", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/32/16/Talo-F-28-0-m/"
+    }, 
+    {
+        "vuokra": "415", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "28,0", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/131/16/Talo-F-28-m-Fc-222-722/"
+    }, 
+    {
+        "vuokra": "422", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "28,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/33/16/Talo-F-28-5-m/"
+    }, 
+    {
+        "vuokra": "581", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "40,0", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/34/16/Talo-F-40-0-m/"
+    }, 
+    {
+        "vuokra": "625", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "43,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/35/16/Talo-F-43-5-m/"
+    }, 
+    {
+        "vuokra": "640", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "44,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/36/16/Talo-F-44-5-m/"
+    }, 
+    {
+        "vuokra": "640", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "44,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/118/16/Talo-F-44-5-m-1krs-C-rappu/"
+    }, 
+    {
+        "vuokra": "655", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "45,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/37/16/Talo-F-45-5-m/"
+    }, 
+    {
+        "vuokra": "655", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "45,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/117/16/Talo-F-45-5-m-1-krs-C-rappu/"
+    }, 
+    {
+        "vuokra": "669", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "47,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/38/16/Talo-F-47-5-m/"
+    }, 
+    {
+        "vuokra": "683", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "48,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/39/16/Talo-F-48-5-m/"
+    }, 
+    {
+        "vuokra": "741", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "56,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kolmio, 3h+kk, 1. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/41/16/Talo-F-56-5-m/"
+    }, 
+    {
+        "vuokra": "741", 
+        "osoite": "Taitoniekantie 9", 
+        "neliot": "56,5", 
+        "tarjoaja": "Kortepohja", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kolmio, 3h+kk, 1. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/116/16/Talo-F-56-5-m-1krs-C-rappu/"
+    }, 
+    {
+        "vuokra": "370", 
+        "osoite": "Piilukko 3, KORTEM\u00c4KI, 40630 Jyv\u00e4skyl\u00e4", 
+        "neliot": "20", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2488033, 
+        "lng": 25.6896695, 
+        "tyyppi": "1h+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65619"
+    }, 
+    {
+        "vuokra": "435", 
+        "osoite": "Wivi L\u00f6nnin katu 7 A, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "neliot": "21", 
+        "tarjoaja": "OVV", 
+        "lat": 62.23482329999999, 
+        "lng": 25.734083, 
+        "tyyppi": "1h+kk+kh+vh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66489"
+    }, 
+    {
+        "vuokra": "430", 
+        "osoite": "Keskussairaalantie 7 A , MATTILANPELTO, 40600 Jyv\u00e4skyl\u00e4", 
+        "neliot": "24", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2337906, 
+        "lng": 25.7265719, 
+        "tyyppi": "1h+alkovi+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66590"
+    }, 
+    {
+        "vuokra": "470", 
+        "osoite": "Keskussairaalantie 7 , MATTILANPELTO, 40600 Jyv\u00e4skyl\u00e4", 
+        "neliot": "24", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2337906, 
+        "lng": 25.7265719, 
+        "tyyppi": "1h+kk+alkovi+kh+s", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66901"
+    }, 
+    {
+        "vuokra": "450", 
+        "osoite": "Viitaniementie 8 A, VIITANIEMI, 40700 Jyv\u00e4skyl\u00e4", 
+        "neliot": "27", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2470807, 
+        "lng": 25.7297245, 
+        "tyyppi": "1h+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66750"
+    }, 
+    {
+        "vuokra": "440", 
+        "osoite": "Saihokatu 5 F, K\u00d6HNI\u00d6, 40630 Jyv\u00e4skyl\u00e4", 
+        "neliot": "28", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2410286, 
+        "lng": 25.6803883, 
+        "tyyppi": "1h+k+kh+rp", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66950"
+    }, 
+    {
+        "vuokra": "450", 
+        "osoite": "Cygnaeuksenkatu 12 B , KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "neliot": "28", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2398257, 
+        "lng": 25.7394328, 
+        "tyyppi": "1h+kk+kh+vh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66509"
+    }, 
+    {
+        "vuokra": "409", 
+        "osoite": "Kulottajantie 6 E, KANGASLAMPI, 40340 Jyv\u00e4skyl\u00e4", 
+        "neliot": "32.5", 
+        "tarjoaja": "OVV", 
+        "lat": 62.275558, 
+        "lng": 25.8142526, 
+        "tyyppi": "1h+kk+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66876"
+    }, 
+    {
+        "vuokra": "350", 
+        "osoite": "Linnantie 6 B , VAAJAKOSKI, 40800 Vaajakoski", 
+        "neliot": "38", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2521127, 
+        "lng": 25.8777484, 
+        "tyyppi": "1h+kk+kh+s+piha", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66784"
+    }, 
+    {
+        "vuokra": "600", 
+        "osoite": "Palanderinkatu 13 A, RASINRINNE, 40320 Jyv\u00e4skyl\u00e4", 
+        "neliot": "38", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2681067, 
+        "lng": 25.7866698, 
+        "tyyppi": "1h+tk+kh+vh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66521"
+    }, 
+    {
+        "vuokra": "600", 
+        "osoite": "Palanderinkatu 13 A, RASINRINNE, 40320 Jyv\u00e4skyl\u00e4", 
+        "neliot": "38", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2681067, 
+        "lng": 25.7866698, 
+        "tyyppi": "1h+tk+kh+vh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66522"
+    }, 
+    {
+        "vuokra": "500", 
+        "osoite": "Kauppakatu 13 A, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "neliot": "33", 
+        "tarjoaja": "OVV", 
+        "lat": 62.239936, 
+        "lng": 25.7416848, 
+        "tyyppi": "2h+ks+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66795"
+    }, 
+    {
+        "vuokra": "560", 
+        "osoite": "V\u00e4likatu 6 A, M\u00c4KI-MATTI, 40700 Jyv\u00e4skyl\u00e4", 
+        "neliot": "38", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2388005, 
+        "lng": 25.7261683, 
+        "tyyppi": "2h+kk+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66791"
+    }, 
+    {
+        "vuokra": "560", 
+        "osoite": "Vaasankatu 8, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "neliot": "38.5", 
+        "tarjoaja": "OVV", 
+        "lat": 62.23780009999999, 
+        "lng": 25.7393011, 
+        "tyyppi": "2h+k+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65576"
+    }, 
+    {
+        "vuokra": "535", 
+        "osoite": "V\u00e4in\u00f6l\u00e4ntie 29, JYSK\u00c4, 40420 Jysk\u00e4", 
+        "neliot": "40", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2348115, 
+        "lng": 25.8177724, 
+        "tyyppi": "2h+kk+ph+s", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66563"
+    }, 
+    {
+        "vuokra": "580", 
+        "osoite": "Kiljanderinkatu 3 A, MATTILANPELTO, 40600 Jyv\u00e4skyl\u00e4", 
+        "neliot": "40", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2331197, 
+        "lng": 25.7251048, 
+        "tyyppi": "2h+kk+kh+vh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66582"
+    }, 
+    {
+        "vuokra": "580", 
+        "osoite": "Kiljanderinkatu 3 A, MATTILANPELTO, 40600 Jyv\u00e4skyl\u00e4", 
+        "neliot": "40", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2331197, 
+        "lng": 25.7251048, 
+        "tyyppi": "2h+alkovi+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66965"
+    }, 
+    {
+        "vuokra": "520", 
+        "osoite": "Sienitie 6 B, KELTINM\u00c4KI, 40640 Jyv\u00e4skyl\u00e4", 
+        "neliot": "43", 
+        "tarjoaja": "OVV", 
+        "lat": 62.23072430000001, 
+        "lng": 25.679825, 
+        "tyyppi": "2h+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65910"
+    }, 
+    {
+        "vuokra": "570", 
+        "osoite": "Em\u00e4nn\u00e4ntie 3-5 H, KORTEPOHJA, 40740 Jyv\u00e4skyl\u00e4", 
+        "neliot": "46", 
+        "tarjoaja": "OVV", 
+        "lat": 62.24707129999999, 
+        "lng": 25.7085312, 
+        "tyyppi": "2h+kk+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66730"
+    }, 
+    {
+        "vuokra": "540", 
+        "osoite": "Haaparinteentie 10, VAAJAKOSKI, 40800 Vaajakoski", 
+        "neliot": "47", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2506623, 
+        "lng": 25.8541238, 
+        "tyyppi": "2h+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66692"
+    }, 
+    {
+        "vuokra": "590", 
+        "osoite": "Saarikonkatu 2 A, KUOKKALA, 40520 Jyv\u00e4skyl\u00e4", 
+        "neliot": "47.5", 
+        "tarjoaja": "OVV", 
+        "lat": 62.22760359999999, 
+        "lng": 25.7914625, 
+        "tyyppi": "2h+k+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66263"
+    }, 
+    {
+        "vuokra": "590", 
+        "osoite": "Saarikonkatu 2 A, KUOKKALA, 40520 Jyv\u00e4skyl\u00e4", 
+        "neliot": "47.5", 
+        "tarjoaja": "OVV", 
+        "lat": 62.22760359999999, 
+        "lng": 25.7914625, 
+        "tyyppi": "2h+k+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66264"
+    }, 
+    {
+        "vuokra": "500", 
+        "osoite": "Muurainkuja 2 A, KANGASLAMPI, 40340 Jyv\u00e4skyl\u00e4", 
+        "neliot": "48.5", 
+        "tarjoaja": "OVV", 
+        "lat": 62.27536240000001, 
+        "lng": 25.8029407, 
+        "tyyppi": "2h+k+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=62940"
+    }, 
+    {
+        "vuokra": "640", 
+        "osoite": "Vaasankatu 5 A, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "neliot": "50", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2364274, 
+        "lng": 25.7418448, 
+        "tyyppi": "2h+kk+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66796"
+    }, 
+    {
+        "vuokra": "556", 
+        "osoite": "Laajavuorentie 3 A, LAAJAVUORI, 40740 Jyv\u00e4skyl\u00e4", 
+        "neliot": "51", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2511429, 
+        "lng": 25.701343, 
+        "tyyppi": "2h+k+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66107"
+    }, 
+    {
+        "vuokra": "610", 
+        "osoite": "Laajavuorentie 7 A, LAAJAVUORI, 40740 Jyv\u00e4skyl\u00e4", 
+        "neliot": "51", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2527261, 
+        "lng": 25.7006632, 
+        "tyyppi": "2h+k+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66555"
+    }, 
+    {
+        "vuokra": "750", 
+        "osoite": "Vapaudenkatu 43 B, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "neliot": "51", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2389847, 
+        "lng": 25.7440203, 
+        "tyyppi": "2h+k+kh+vh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65922"
+    }, 
+    {
+        "vuokra": "630", 
+        "osoite": "Vapaudenkatu 43 B, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "neliot": "52", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2389847, 
+        "lng": 25.7440203, 
+        "tyyppi": "2h+k+kh+vh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66762"
+    }, 
+    {
+        "vuokra": "610", 
+        "osoite": "Lohikoskentie 24 B, LOHIKOSKI, 40320 Jyv\u00e4skyl\u00e4", 
+        "neliot": "57", 
+        "tarjoaja": "OVV", 
+        "lat": 62.25915879999999, 
+        "lng": 25.7593019, 
+        "tyyppi": "2h+k+kh+lp", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66818"
+    }, 
+    {
+        "vuokra": "690", 
+        "osoite": "Vapaudenkatu 20 A, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "neliot": "57", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2377687, 
+        "lng": 25.7420569, 
+        "tyyppi": "2h+k+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66579"
+    }, 
+    {
+        "vuokra": "750", 
+        "osoite": "Pursipolku 2-4, JYSK\u00c4, 40420 Jyv\u00e4skyl\u00e4", 
+        "neliot": "70", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2341585, 
+        "lng": 25.838171, 
+        "tyyppi": "2h+k+wc+kh", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66754"
+    }, 
+    {
+        "vuokra": "850", 
+        "osoite": "Tervalankatu 4 A, KELJO, 40500 Jyv\u00e4skyl\u00e4", 
+        "neliot": "64", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2160218, 
+        "lng": 25.7165525, 
+        "tyyppi": "3h+k+kh+s+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66781"
+    }, 
+    {
+        "vuokra": "600", 
+        "osoite": "Pursipolku 2-4, JYSK\u00c4, 40420 Jyv\u00e4skyl\u00e4", 
+        "neliot": "70", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2341585, 
+        "lng": 25.838171, 
+        "tyyppi": "3h+k+kh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=63377"
+    }, 
+    {
+        "vuokra": "850", 
+        "osoite": "Minna Canthin katu 18 A, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "neliot": "73", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2371867, 
+        "lng": 25.7386831, 
+        "tyyppi": "3h+k+kh+vh+p", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65864"
+    }, 
+    {
+        "vuokra": "900", 
+        "osoite": "Egyptintie, POHJASLAHTI, VIRRAT, 42850 Muu", 
+        "neliot": "80", 
+        "tarjoaja": "OVV", 
+        "lat": 62.244747, 
+        "lng": 25.7472184, 
+        "tyyppi": "KES\u00c4M\u00d6KKI", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=57753"
+    }, 
+    {
+        "vuokra": "1000", 
+        "osoite": "Pursipolku 2-4, JYSK\u00c4, 40420 Jysk\u00e4", 
+        "neliot": "100", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2341585, 
+        "lng": 25.838171, 
+        "tyyppi": "3-4h+k+kh+s+wc+terassi", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=63378"
+    }, 
+    {
+        "vuokra": "300", 
+        "osoite": "Sep\u00e4nkatu 16 C, NISULA, 40720 Jyv\u00e4skyl\u00e4", 
+        "neliot": "9.5", 
+        "tarjoaja": "OVV", 
+        "lat": 62.2495547, 
+        "lng": 25.7366484, 
+        "tyyppi": "HUONE NELI\u00d6ST\u00c4", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=62966"
+    }, 
+    {
+        "vuokra": "300", 
+        "osoite": "Saarikonkatu 2 A, KUOKKALAN PELTO, 40520 Jyv\u00e4skyl\u00e4", 
+        "neliot": "12", 
+        "tarjoaja": "OVV", 
+        "lat": 62.22760359999999, 
+        "lng": 25.7914625, 
+        "tyyppi": "HUONE KAKSIOSTA (2h+k+kh)", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=66265"
+    }, 
+    {
+        "vuokra": "65", 
+        "osoite": "Kilpisenkatu 18, KESKUSTA, 40100 Jyv\u00e4skyl\u00e4", 
+        "neliot": "12.5", 
+        "tarjoaja": "OVV", 
+        "lat": 62.1685827, 
+        "lng": 25.3146262, 
+        "tyyppi": "AUTOHALLIPAIKKA", 
+        "linkki": "http://www.ovv.fi/asunto?asunto=65769"
+    }
+]

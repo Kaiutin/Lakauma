@@ -1,0 +1,312 @@
+[
+    {
+        "vuokra": "328", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,0", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/1/16/Yksioe-30m2/"
+    }, 
+    {
+        "vuokra": "328", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,0", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/126/16/Talo-F-22-0-m-Fc-217-717/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/29/16/Talo-F-22-5-m/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/119/16/Talo-F-22-5-m-Fa-204-704/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/120/16/Talo-F-22-5-m-Fa-206-706/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/121/16/Talo-F-22-5-m-Fb-211-711/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/122/16/Talo-F-22-5-m-Fb-212-712/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/123/16/Talo-F-22-5-m-Fb-213-713/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/127/16/Talo-F-22-5-m-Fc-218-718/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/129/16/Talo-F-22-5-m-Fc-220-720/"
+    }, 
+    {
+        "vuokra": "335", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "22,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/130/16/Talo-F-22-5-m-Fc-221-721/"
+    }, 
+    {
+        "vuokra": "350", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "23,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/30/16/Talo-F-23-5-m/"
+    }, 
+    {
+        "vuokra": "350", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "23,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/124/16/Talo-F-23-5-m-Fc-215-715/"
+    }, 
+    {
+        "vuokra": "350", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "23,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/128/16/Talo-F-23-5-m-Fc-219-719/"
+    }, 
+    {
+        "vuokra": "365", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "24,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/31/16/Talo-F-24-5-m/"
+    }, 
+    {
+        "vuokra": "365", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "24,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/125/16/Talo-F-24-5-m-Fc-216-716/"
+    }, 
+    {
+        "vuokra": "365", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "24,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/132/16/Talo-F-24-5-m-Fc-223-723/"
+    }, 
+    {
+        "vuokra": "367", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "26", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Soluhuone asunnosta 2h+kk", 
+        "linkki": "http://www.kortepohja.fi/Products/40/16/F-talo-52-0-m-solu/"
+    }, 
+    {
+        "vuokra": "415", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "28,0", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/32/16/Talo-F-28-0-m/"
+    }, 
+    {
+        "vuokra": "415", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "28,0", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/131/16/Talo-F-28-m-Fc-222-722/"
+    }, 
+    {
+        "vuokra": "422", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "28,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Yksi\u00f6,  1h+kt, 2.-7. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/33/16/Talo-F-28-5-m/"
+    }, 
+    {
+        "vuokra": "581", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "40,0", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/34/16/Talo-F-40-0-m/"
+    }, 
+    {
+        "vuokra": "625", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "43,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/35/16/Talo-F-43-5-m/"
+    }, 
+    {
+        "vuokra": "640", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "44,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/36/16/Talo-F-44-5-m/"
+    }, 
+    {
+        "vuokra": "640", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "44,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/118/16/Talo-F-44-5-m-1krs-C-rappu/"
+    }, 
+    {
+        "vuokra": "655", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "45,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/37/16/Talo-F-45-5-m/"
+    }, 
+    {
+        "vuokra": "655", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "45,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/117/16/Talo-F-45-5-m-1-krs-C-rappu/"
+    }, 
+    {
+        "vuokra": "669", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "47,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 1. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/38/16/Talo-F-47-5-m/"
+    }, 
+    {
+        "vuokra": "683", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "48,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kaksio, 2h+kt, 2.-7. krs, B-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/39/16/Talo-F-48-5-m/"
+    }, 
+    {
+        "vuokra": "741", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "56,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kolmio, 3h+kk, 1. krs, A-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/41/16/Talo-F-56-5-m/"
+    }, 
+    {
+        "vuokra": "741", 
+        "osoite": "Taitoniekantie 9", 
+        "tarjoaja": "Kortepohja", 
+        "neliot": "56,5", 
+        "lat": 62.2483655, 
+        "lng": 25.7096815, 
+        "tyyppi": "Kolmio, 3h+kk, 1. krs, C-rappu", 
+        "linkki": "http://www.kortepohja.fi/Products/116/16/Talo-F-56-5-m-1krs-C-rappu/"
+    }
+]
