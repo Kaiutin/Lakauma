@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # This file is part of Loukku, an application to display available rental apartments on Google Maps map.
 # Copyright (C) 2013  Anton Laurila, Jari-Matti Kankaanpää, Samuel Uusi-Mäkelä
 #
