@@ -29,12 +29,3 @@
 {"vuokra": "766", "neliot": "83", "osoite": "Helokantie 1-5", "tarjoaja": "KOAS", "lat": 62.2294885, "lng": 25.6821581, "tyyppi": "3 makuuhuonetta + tupak", "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"},
 {"vuokra": "235", "neliot": "", "osoite": "Helokantie 1-5", "tarjoaja": "KOAS", "lat": 62.2294885, "lng": 25.6821581, "tyyppi": "2h+k", "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"},
 {"vuokra": "205", "neliot": "", "osoite": "Helokantie 1-5", "tarjoaja": "KOAS", "lat": 62.2294885, "lng": 25.6821581, "tyyppi": "3h+k", "linkki": "http://koas.fi/fi/kohteet/keltinmaki/"}
-[{"vuokra": "221", "osoite": "Taitoniekantie 9", "neliot": "16,5", "tarjoaja": "Kortepohja", "tyyppi": "61", "linkki": "[u'http://www.kortepohja.fi/Products/43/16/Talot-A-C-16-0-m/']"},
-{"vuokra": "228", "osoite": "Taitoniekantie 9", "neliot": "17,5", "tarjoaja": "Kortepohja", "tyyppi": "61", "linkki": "[u'http://www.kortepohja.fi/Products/44/16/Talo-A-17-5-m/']"},
-{"vuokra": "236", "osoite": "Taitoniekantie 9", "neliot": "18,0", "tarjoaja": "Kortepohja", "tyyppi": "61", "linkki": "[u'http://www.kortepohja.fi/Products/46/16/Talo-C-18-m/']"},
-{"vuokra": "262", "osoite": "Taitoniekantie 9", "neliot": "20,0", "tarjoaja": "Kortepohja", "tyyppi": "61", "linkki": "[u'http://www.kortepohja.fi/Products/45/16/Talot-A-E-20-0-m/']"},
-{"vuokra": "265", "osoite": "Taitoniekantie 9", "neliot": "21,0", "tarjoaja": "Kortepohja", "tyyppi": "61", "linkki": "[u'http://www.kortepohja.fi/Products/47/16/Talo-D-21-0-m/']"},
-{"vuokra": "272", "osoite": "Taitoniekantie 9", "neliot": "22,0", "tarjoaja": "Kortepohja", "tyyppi": "61", "linkki": "[u'http://www.kortepohja.fi/Products/48/16/Talo-B-D-E-22-0-m/']"},
-{"vuokra": "281", "osoite": "Taitoniekantie 9", "neliot": "22,5", "tarjoaja": "Kortepohja", "tyyppi": "61", "linkki": "[u'http://www.kortepohja.fi/Products/49/16/Talo-B-E-22-5-m/']"},
-{"vuokra": "348", "osoite": "Taitoniekantie 9", "neliot": "29,0", "tarjoaja": "Kortepohja", "tyyppi": "6144", "linkki": "[u'http://www.kortepohja.fi/Products/50/16/Talo-A-E-29-0-m/']"},
-{"vuokra": "348", "osoite": "Taitoniekantie 9", "neliot": "29,0", "tarjoaja": "Kortepohja", "tyyppi": "61", "linkki": "[u'http://www.kortepohja.fi/Products/96/16/Talot-A-E-29-m-keskellae/']"}]
