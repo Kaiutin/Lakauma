@@ -57,6 +57,8 @@ def remove():
     collection = db.asunnot
     collection.remove()
     
+
+
     
 #def import():
     
